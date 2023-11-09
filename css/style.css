@@ -1,0 +1,332 @@
+/*General*/
+/*Estilo de la cabeza, cuerpo y pie*/
+header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+footer {
+    background-color: lightgrey;
+    padding: 3rem;
+    width: 100%;
+}
+/*Estilo del contenedor de los selectores de la barra de navegación*/
+.flex-form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 2rem;
+}
+.form_selector {
+    display: flex;
+    margin: 0 2rem;    
+}
+/*Barra de navegación*/
+.nav {
+    background-color: lightgrey;
+    position: sticky;
+}
+.nav__ul {
+    padding: 0;
+}
+.nav__responsive-ul{
+    display: none;
+}
+.nav__li {
+    display: inline-block;
+    padding: 0;
+    color: darkblue;
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+.nav__li:hover {
+    color: lightblue;
+    cursor: pointer;
+}
+/*Padding de las listas en general*/
+ol, ul {
+    padding-left: 2.5rem;
+}
+/*Tamaño de todos los subtítulos*/
+h2 {
+    font-size: 1.618rem;
+}
+/*Cambio del cursor al pasar sobre un elemento i*/
+i:hover {
+    cursor: pointer;
+    color: white;
+}
+/*Estilo de título principal*/
+.títuloP {
+text-align: center;
+text-decoration: underline;
+font-family: "Bebas Neue", sans-serif; 
+font-size: 3.236rem;
+padding: 1rem 1rem 0rem 1rem;
+margin: 2rem 0rem 0rem;
+}
+/*Estilo de los links*/
+a:link {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: blueviolet;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+/*html index*/
+/*Tamaño de la imagen del mapa en el contenedor flexible*/
+.img {
+    width: 75%;
+}
+/*Estilo del contenedor flexble y los items adentro de index*/
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 1rem auto;
+}
+.flex-item {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-width: 17.3rem;
+    border: solid 1px black;
+    border-radius: 50px;
+    padding: 2rem;
+    width: 17.3rem;
+    height: 28rem;
+    margin: 1.5rem 2rem;
+}
+.flex-item:hover {
+    transition: box-shadow 0.3s ease;
+    background-color: rgb(232, 232, 232);
+    cursor: pointer;
+    box-shadow: 0 .3rem 0.6rem rgba(0,0,0,.4);
+}
+
+
+/*html legislación*/
+/* Define la estructura de las columnas y párrafo de las columna*/
+.columnas {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 3rem; /* Espacio entre columnas */
+    margin: 2rem 4rem;
+}
+.legislación_grid-parrafo{
+    background-color: #f2f2f2;
+    padding: 3rem;
+    text-align: justify;
+    font-size: 1.2rem;
+    border: 1px solid #ccc; /* Añade un borde para separar los párrafos */
+    border-radius: 2rem; /* Borde redondeado */
+}
+/*Párrafo en legislación*/
+.legislación-parrafo {
+    background-color: #f2f2f2;
+    padding: 2rem;
+    margin: 2rem 4rem;
+    text-align: justify;
+    font-size: 1.2rem;
+    border: 1px solid #ccc; /* Añade un borde para separar los párrafos */
+    border-radius: 2rem; /* Borde redondeado */
+}
+
+
+/*html mapa*/
+/*Dimensiones del mapa principal*/
+#map {
+    width: 100%;
+    height: 100vh;
+    z-index: 50;
+}
+/*Estilo del contenedor y el botón de mas información*/
+.container-button {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+}
+.button {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: .5rem;
+    padding: .2rem;
+    border-radius: .5rem;
+    background-color: rgb(52, 198, 84);
+}
+.button:hover {
+    transition: box-shadow 0.3s ease;
+    background-color: rgb(52, 198, 84);
+    cursor: pointer;
+    box-shadow: 0 .3rem 0.6rem rgba(0,0,0,.4);
+}
+/*Estilo de ventana emergente de los centros de acopio*/
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 300;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.7);
+}
+.modal-content {
+    font-size: 1.2rem;
+    background-color: #fefefe;
+    border-radius: 2rem;
+    margin: 10% auto;
+    padding: 2rem;
+    border: 1px solid #888;
+    width: 50%;
+}
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 32px;
+    font-weight: bold;
+}  
+.close:hover {
+    color: black;
+    cursor: pointer;
+}
+/*Estilo del título del nombre de los centros*/
+.marcador_nombre-centro {
+    text-align: center; 
+    font-size: 1.4rem;
+}
+.nombre-centro {
+    text-align: center; 
+    font-size: 1.7rem;
+}
+
+
+/*html materiales*/
+/*Estilo del grid y parrafo materiales*/
+.grid-container {
+    font-size: 1.2rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.2rem;
+    margin: 1rem 1rem 2.6rem;
+  }
+  .grid-item {
+    background-color: #ddd;
+    padding: 2rem;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+  .center {
+    grid-column-end: span 3;
+} 
+  .grid-item:hover {
+    background-color:  #a7e5a0;
+  }
+  .material-parrafo {
+    font-size: 1.4rem;
+    margin: 2rem 2rem 0rem 2rem; 
+    text-align: center;
+}
+/*Estilo de ventana emergente de material*/
+.modal-material {
+    display: none;
+    position: fixed;
+    z-index: 300;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.7);
+}
+.modal_content-material {
+    font-size: 1.2rem;
+    background-color: #fefefe;
+    border-radius: 2rem;
+    margin: 10% auto;
+    padding: 5rem;
+    border: 1px solid #888;
+    width: max-content;
+}
+.nombre-material {
+    text-align: center; 
+    font-size: 1.7rem;
+}  
+
+
+/*Cambio de la barra de navegación según el tamaño de la pantalla*/
+@media only screen and (max-width: 45rem) {
+header {
+    position: sticky;
+    top: 2rem;
+}
+
+    .nav__ul {
+        display: none;
+    }
+    .nav__responsive-ul {
+        display: block;
+        color: darkblue;
+        font-size: 1.5rem;
+        width: 100%;
+        top: 0;
+        padding: 0;
+        height: 4rem;
+}
+    .nav__li-container {
+        position: relative;
+        background-color: red;
+        height: 100vh;
+        top:-100rem;
+        transition: all 1s;
+        z-index: 50;
+        width: 75%;
+}
+
+    .nav__responsive-ul:hover > .nav__li-container {
+        top: 4rem;
+    }
+
+    .nav__responsive-li {
+        width: 100%;
+        display: inline-block;
+        font-size: 1.8rem;
+        margin: 1rem;
+   }
+
+}
+    .nav__responsive-button-container {
+        position: absolute;
+        width: 100%;
+        font-size: 2rem;
+        background-color: lightgrey;
+        margin-top: 0;
+        z-index: 100;
+        top: -2rem;
+}
+    .nav__responsive-button {
+        margin: 2rem 2rem;
+        font-size: 2rem;
+        float: right;
+        display: inline;
+}

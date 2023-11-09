@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Centros de acopio</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="css/normalize.css">
+
+        <meta charset="utf/8">
+        <meta name="keywords" content="Centros de acopio, Aguascalientes, reciclaje, chatarreras">
+        <meta name="description" content="Explora y localiza Centros de Acopio en el Estado de Aguascalientes, 
+        encuentra información detallada sobre los centros de acopio en tu área, verifica los materiales que aceptan y 
+        descubre cómo establecer uno propio. Nuestra plataforma te brinda acceso a una base de datos completa y a un mapa 
+        interactivo que te ayudarán a contribuir al cuidado del medio ambiente y a la gestión responsable de residuos.">
+        <meta name="author" content="Diego Alejandro Ruiz Narváez">
+        <meta name="copyright" content="PROESPA">
+        <meta name="robots" content="index">
+
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+        <script src="https://kit.fontawesome.com/078cbe10d9.js" crossorigin="anonymous"></script> 
+        <!-- cambiar el correo al pasarlo a un servidor -->
+		<script src="js/material.js"></script>
+
+    </head>
+              
+    <body>
+        <header>
+            <!-- Barra de navegación -->
+            <nav class="nav">
+                <ul class="nav__ul">
+                    <li class="nav__li"><i class="fa-sharp fa-solid fa-house" onclick="window.location.href='index.html';"></i></li>
+                    <li class="nav__li"><i class="fa-brands fa-facebook" onclick="window.open('https://www.facebook.com/PROESPA', '_blank');"></i></li>
+                   <li class="nav__li"><i class="fa-brands fa-solid fa-instagram"  onclick="window.open('https://www.instagram.com/proespa/','_blank');"></i>
+                </ul>
+                <ul class="nav__responsive-ul">
+                    <div class="nav__responsive-button-container">
+                        <div class="nav__responsive-button"><i class="fas fa-bars"></i></div>
+                    </div>
+                    <div class="nav__li-container">
+                        <li class="nav__responsive-li"><i class="fa-sharp fa-solid fa-house" onclick="window.location.href='index.html';"></i>
+                        </li>
+                        <li class="nav__responsive-li"><i class="fa-brands fa-facebook" onclick="window.open('https://www.facebook.com/PROESPA', '_blank');"></i>
+                        </li>
+                        <li class="nav__responsive-li"><i class="fa-brands fa-solid fa-instagram"  onclick="window.open('https://www.instagram.com/proespa/','_blank');"></i></li>
+                    </div>
+                </ul>
+            </nav>    
+        </header>
+
+
+		<div>
+			<br><p class="material-parrafo">El material acopiado de los distintos centros de acopio se agruparon en los siguientes grupos:</p><br>
+		</div>
+        <!-- Materiales -->
+		<div class="grid-container" id="grid">
+			<div class="grid-item" onclick="abrirVentana('Papel')">Papel</div>
+			<div class="grid-item" onclick="abrirVentana('Cartón')">Cartón</div>
+			<div class="grid-item" onclick="abrirVentana('Madera')">Madera</div>
+			<div class="grid-item" onclick="abrirVentana('Plásticos')">Plásticos</div>
+			<div class="grid-item" onclick="abrirVentana('Cables')">Cables</div>
+			<div class="grid-item" onclick="abrirVentana('Chatarra ferrosa')">Chatarra ferrosa</div>
+			<div class="grid-item" onclick="abrirVentana('Chatarra no ferrosa')">Chatarra no ferrosa</div>
+			<div class="grid-item" onclick="abrirVentana('Chatarra electrónica')">Chatarra electrónica</div>
+			<div class="grid-item" onclick="abrirVentana('Escombros de construcción')">Escombros de construcción</div>
+			<div class="grid-item" onclick="abrirVentana('Fundición')">Fundición</div>
+			<div class="grid-item" onclick="abrirVentana('Orgánicos')">Orgánicos</div>
+			<div class="grid-item" onclick="abrirVentana('Textiles')">Textiles</div>
+			<div class="grid-item center" onclick="abrirVentana('Otros')">Otros</div>
+		  </div>
+          <!-- Ventana emergente -->
+		  <div id="myModal" class="modal-material">
+			<div class="modal_content-material">
+				<span class="close" onclick="cerrarModal()">&times;</span>
+				<div id="material_modal-content"></div>
+			  </div>
+		</div>
+
+        <footer>
+            <p>Copyright-Todos los derechos reservados</p> 
+        </footer>
+    </body>    
+        
+
+</html>

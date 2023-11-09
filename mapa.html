@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mapa</title>
+	    <meta charset="utf/8">
+        <meta name="keywords" content="Centros de acopio, Aguascalientes, reciclaje, chatarreras">
+        <meta name="description" content="Explora y localiza Centros de Acopio en el Estado de Aguascalientes, 
+		encuentra información detallada sobre los centros de acopio en tu área, verifica los materiales que aceptan y 
+		descubre cómo establecer uno propio. Nuestra plataforma te brinda acceso a una base de datos completa y a un mapa 
+		interactivo que te ayudarán a contribuir al cuidado del medio ambiente y a la gestión responsable de residuos.">
+        <meta name="author" content="Diego Alejandro Ruiz Narváez">
+        <meta name="copyright" content="PROESPA">
+		<meta name="robots" content="index">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="css/normalize.css">
+
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    	integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     	crossorigin=""/>
+
+        <!-- cambiar el correo al pasarlo a un servidor -->
+     	<script src="https://kit.fontawesome.com/078cbe10d9.js" crossorigin="anonymous"></script> 
+        <!-- Permite usar leaflet@1.9.4 -->
+	 	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+	     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+	     crossorigin=""></script>
+
+
+</head>
+<body>
+     <header>
+		<!-- Barra de navegación -->
+        <nav class="nav">
+            <ul class="nav__ul">
+                <li class="nav__li"><i class="fa-sharp fa-solid fa-house" onclick="window.location.href='index.html';"></i></li>
+                <li class="nav__li"><i class="fa-brands fa-facebook" onclick="window.open('https://www.facebook.com/PROESPA', '_blank');"></i></li>
+                <li class="nav__li"><i class="fa-brands fa-solid fa-instagram"  onclick="window.open('https://www.instagram.com/proespa/','_blank');"></i>
+            </ul>
+            <ul class="nav__responsive-ul">
+                <div class="nav__responsive-button-container">
+                     <div class="nav__responsive-button"><i class="fas fa-bars"></i></div>
+                </div>
+                <div class="nav__li-container">
+                    <li class="nav__responsive-li"><i class="fa-sharp fa-solid fa-house" onclick="window.location.href='index.html';"></i>
+                    </li>
+                    <li class="nav__responsive-li"><i class="fa-brands fa-facebook" onclick="window.open('https://www.facebook.com/PROESPA', '_blank');"></i>
+                    </li>
+                    <li class="nav__responsive-li"><i class="fa-brands fa-solid fa-instagram"  onclick="window.open('https://www.instagram.com/proespa/','_blank');"></i></li>
+                </div>
+            </ul>
+			<!-- Barra de filtrado -->
+            <div>
+	            <form class="flex-form">
+		            <select class="form_selector" name="select-municipio" id="selector-municipio">
+						<option value="-1">Seleccione un municipio:</option>
+							<option value="Aguascalientes">Aguascalientes</option>
+							<option value="Cosío">Cosío</option>
+							<option value="El Llano">El Llano</option>
+							<option value="Jesús María">Jesús María</option>
+							<option value="Pabellón de Arteaga">Pabellón de Arteaga</option>
+							<option value="San Francisco de los Romos">San Francisco de los Romos</option>
+							<option value="San José de Gracia">San José de Gracia</option>
+							<option value="Tepezalá">Tepezalá</option>
+					</select>
+
+					<select class="form_selector" name="select-material" id="selector-material">
+						<option value="-1">Seleccione un material:</option>
+							<option >Cartón</option>
+							<option >Papel</option>
+							<option >Madera</option>
+							<option >Plástico</option>
+							<option >Chatarra ferrosa</option>
+							<option >Chatarra no ferrosa</option>
+							<option >Chatarra electrónica</option>
+							<option >Cables</option>
+							<option >Orgánicos</option>
+							<option >Textiles</option>
+							<option >Fundición</option>
+							<option >Escombros de construcción</option>
+							<option >Otros</option>
+					</select>
+					<input class="form_selector" type="text" placeholder="Buscar" id="input-busqueda"></input>
+				</form>
+			</div>
+        </nav>    
+
+    </header>
+
+	<!-- Contenedor del mapa -->
+    <div id="map"></div>
+    <!-- Permite leer el archivo mapa.js -->
+   	<script src="js/mapa.js"></script>
+	<!-- Ventana emergente -->
+	<div id="myModal" class="modal">
+		<div class="modal-content">
+    		<span class="close" onclick="cerrarModal()">&times;</span>
+    		<div id="modal-content"></div>
+  		</div>
+	</div>
+
+
+</body>
+</html>

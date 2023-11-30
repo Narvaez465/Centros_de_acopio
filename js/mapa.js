@@ -6,6 +6,14 @@ var greenIcon = new L.Icon({
   popupAnchor: [1, -34]
 });
 
+// Marcador rojo
+var redIcon = new L.Icon({
+    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34]
+  });
+
 // Punto y zoom donde se visualiza el mapa
 let map = L.map('map', {
     center: [21.9800, -102.2966],
@@ -26,12 +34,14 @@ let data; // Declarar la variable data en el ámbito global
 let allMarkers = [];
 
 // Función para agregar marcadores
-function addMarker(lat, lng, icon, popupText) {
+function addMarker(lat, lng, popupText, fechaVencida, autorizado) {
+    let icon = autorizado ? (fechaVencida ? redIcon : greenIcon) : redIcon;
     let marker = L.marker([lat, lng], { icon: icon });
     marker.bindPopup(popupText);
     allMarkers.push(marker);
-    marker.addTo(map);
+    return marker; // Devuelve el marcador para poder agregarlo al mapa después
 }
+
 
 // Función para verificar si una fecha está en el pasado
 function esFechaPasada(fecha) {
@@ -48,22 +58,29 @@ function esFechaPasada(fecha) {
 }
 
 // Función para generar el contenido del marcador
-function generarContenidoMarcador(markerInfo) {
+function generarContenidoMarcador(markerInfo, fechaVencida) {
+    const estadoCentro = fechaVencida ? 'Centro no autorizado' : 'Centro autorizado';
+
     return `
         <div class="marcador_nombre-centro">
             <b>${markerInfo['Nombre del proyecto o establecimiento']}</b>
         </div>
         <br>
-        <b>Representante legal o promovente:</b> ${markerInfo['Representante legal o promovente']}<br>
         <b>Dirección:</b> ${markerInfo['Dirección']}<br>
         <b>Municipio:</b> ${markerInfo['Municipio']}<br>
         <b>Materiales:</b> ${markerInfo['Material']}<br>
+        <b>Estado:</b> ${estadoCentro}<br> <!-- Agrega esta línea para mostrar el estado del centro -->
         <div class="container-button">
             <button class="button" onclick="abrirModal(
-            '${markerInfo['Nombre del proyecto o establecimiento']}', '${markerInfo['Dirección']}', '${markerInfo['Latitud']}', '${markerInfo['Longitud']}', '${markerInfo['Material específico']}')">Más información</button>
+            '${markerInfo['Nombre del proyecto o establecimiento']}', 
+            '${markerInfo['Dirección']}', '${markerInfo['Latitud']}', 
+            '${markerInfo['Longitud']}', 
+            '${markerInfo['Material específico']}')">Más información</button>
         </div>
     `;
 }
+
+
 
 // Función para abrir el modal y mostrar la información
 function abrirModal(nombre, direccion, latitud, longitud, materialEspecifico) {
@@ -94,15 +111,17 @@ fetch('./js/datos.json')
         data = jsonData;
         // Procesar los datos y crear marcadores en base a la información cargada
         data.forEach(markerInfo => {
-            // Verificar si la fecha de vencimiento no está en el pasado
-            if (!esFechaPasada(markerInfo['Vencimiento '])) {
-                let lat = parseFloat(markerInfo.Latitud);
-                let lng = parseFloat(markerInfo.Longitud);
-                let texto = generarContenidoMarcador(markerInfo);
-                addMarker(lat, lng, greenIcon, texto);
-            }
+            let lat = parseFloat(markerInfo.Latitud);
+            let lng = parseFloat(markerInfo.Longitud);
+            let fechaVencida = esFechaPasada(markerInfo['Vencimiento ']);
+            let autorizado = !fechaVencida;
+            let texto = generarContenidoMarcador(markerInfo, fechaVencida);
+            
+            // Agrega los marcadores al mapa al inicio
+            addMarker(lat, lng, texto, fechaVencida, autorizado).addTo(map);
         });
-    })
+    });
+
 
 
 // Evento para filtrar al cambiar el selector de municipio o material
@@ -123,17 +142,23 @@ function actualizarFiltros() {
     if (data) {
         // Filtra y muestra los marcadores que cumplen con los criterios de municipio, material y fecha de vencimiento
         data.forEach(markerInfo => {
+            let autorizado = !esFechaPasada(markerInfo['Vencimiento ']);
+            let fechaVencida = !autorizado;
+            
             if ((municipioSeleccionado === "-1" || markerInfo.Municipio === municipioSeleccionado) &&
-                (materialSeleccionado === "-1" || markerInfo.Material.includes(materialSeleccionado)) &&
-                !esFechaPasada(markerInfo['Vencimiento '])) {
+                (materialSeleccionado === "-1" || markerInfo.Material.includes(materialSeleccionado))) {
                 let lat = parseFloat(markerInfo.Latitud);
                 let lng = parseFloat(markerInfo.Longitud);
-                let texto = generarContenidoMarcador(markerInfo);
-                addMarker(lat, lng, greenIcon, texto);
+                let texto = generarContenidoMarcador(markerInfo, fechaVencida);
+                
+                // Agrega los marcadores al mapa
+                addMarker(lat, lng, texto, fechaVencida, autorizado).addTo(map);
             }
         });
     }
 }
+
+
 
 // Llamar a la función para mostrar todos los marcadores al inicio
 actualizarFiltros();
@@ -154,13 +179,17 @@ function actualizarBusqueda() {
     if (data) {
         // Filtra y muestra los marcadores que contienen el texto de búsqueda en "Nombre del proyecto o establecimiento" o "Material específico"
         data.forEach(markerInfo => {
-            if ((markerInfo['Nombre del proyecto o establecimiento'].toLowerCase().includes(textoBusqueda) ||
-                markerInfo['Material específico'].toLowerCase().includes(textoBusqueda)) &&
-                !esFechaPasada(markerInfo['Vencimiento '])) {
-                let lat = parseFloat(markerInfo.Latitud);
-                let lng = parseFloat(markerInfo.Longitud);
-                let texto = generarContenidoMarcador(markerInfo);
-                addMarker(lat, lng, greenIcon, texto);
+            const autorizado = !esFechaPasada(markerInfo['Vencimiento ']);
+            const lat = parseFloat(markerInfo.Latitud);
+            const lng = parseFloat(markerInfo.Longitud);
+            const fechaVencida = !autorizado;
+            const texto = generarContenidoMarcador(markerInfo, fechaVencida);
+
+            // Verifica si el texto de búsqueda está en el nombre o material
+            if (markerInfo['Nombre del proyecto o establecimiento'].toLowerCase().includes(textoBusqueda) ||
+                markerInfo['Material específico'].toLowerCase().includes(textoBusqueda)) {
+                let icon = autorizado ? (fechaVencida ? redIcon : greenIcon) : redIcon;
+                addMarker(lat, lng, texto, fechaVencida, autorizado, icon).addTo(map);
             }
         });
     }

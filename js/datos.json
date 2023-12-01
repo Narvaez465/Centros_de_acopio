@@ -4,511 +4,237 @@
         "Material": "Cartón",
         "Material específico": "Cartón",
         "Nombre del proyecto o establecimiento": "Martha Lourdes Jiménez Fabila",
-        "Representante legal o promovente": "Martha Lourdes Jiménez Fabila",
         "Dirección": "C. Juan Domínguez #201, Col. Centro",
         "Municipio": "San José de Gracia",
         "Latitud": "22.15010236",
         "Longitud": "-102.4166897",
-        "Vencimiento ": "22/03/2018"
+        "Vencimiento ": "22/03/2018 "
     },
     {
         "ID": "2",
         "Material": "Tarimas",
         "Material específico": "Tarimas",
         "Nombre del proyecto o establecimiento": "Roberto Carlos López Salazar",
-        "Representante legal o promovente": "Roberto Carlos López Salazar",
         "Dirección": "C. El Arenal #213, Fracc. La Herrada",
         "Municipio": "Aguascalientes",
         "Latitud": "21.8997493",
         "Longitud": "-102.2174184",
-        "Vencimiento ": "16/06/2018"
-    },
-    {
-        "ID": "3",
-        "Material": "Papel, Cartón, Plástico, Madera, Chatarra ferrosa, Chatarra no ferrosa",
-        "Material específico": "Papel, Cartón, Plástico, Madera, Acero inoxidable, Antimonio, Llantas",
-        "Nombre del proyecto o establecimiento": "Metales B&G S.A. de C.V.",
-        "Representante legal o promovente": "María del Carmen Gallegos Vivanco",
-        "Dirección": "C. Malagán #309, Fracc. Paso Blanco",
-        "Municipio": "Jesús María",
-        "Latitud": "21.97358658",
-        "Longitud": "-102.3169535",
-        "Vencimiento ": "13/07/2018"
-    },
-    {
-        "ID": "4",
-        "Material": "Plástico",
-        "Material específico": "Llantas",
-        "Nombre del proyecto o establecimiento": "Loma Enviroment S.A. de C.V.",
-        "Representante legal o promovente": "Miguel Ángel Esquivel Gómez",
-        "Dirección": "C. Municipio de Tepezalá #111, Parque Industrial del Valle de Aguascalientes",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.96427341",
-        "Longitud": "-102.285308",
-        "Vencimiento ": "22/08/2018"
-    },
-    {
-        "ID": "5",
-        "Material": "Cartón, Papel, Madera, Orgánicos, Plástico, Chatarra ferrosa, Chatarra no ferrosa, Otros, Escombros de construcción, Chatarra electrónica, Textiles",
-        "Material específico": "Cartón, Papel, Madera, Lácteos, Orgánicos de comedor, Plásticos, Residuos de jardín, Chatarrra ferrosa, Chatarra no ferrosa, Vidrio, Escombro, Cer[amica, Textiles, Chatarra electrónica, Tetrapack",
-        "Nombre del proyecto o establecimiento": "Desperdicios industriales de Cuernavaca S.A. de C.V.",
-        "Representante legal o promovente": "Daniel Salvador Flores Flores",
-        "Dirección": "C. Juan Carlos #114, Manzana 2, Lote 7, Parque industrial siglo XXI",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.80176889",
-        "Longitud": "-102.2878323",
-        "Vencimiento ": "17/05/2019"
+        "Vencimiento ": "16/06/2018 "
     },
     {
         "ID": "6",
         "Material": "Plástico",
         "Material específico": "PET, HDP",
         "Nombre del proyecto o establecimiento": "Centro de Acopio",
-        "Representante legal o promovente": "Amner Ramos Martíez",
         "Dirección": "C. Benjamín Mendez #1116, Col. Unidad Ganadera",
         "Municipio": "Aguascalientes",
         "Latitud": "21.90565661",
         "Longitud": "-102.3126269",
-        "Vencimiento ": "18/02/2020"
-    },
-    {
-        "ID": "7",
-        "Material": "Plástico",
-        "Material específico": "Llantas",
-        "Nombre del proyecto o establecimiento": "Grupo Tiresclean S.A. de C.V.",
-        "Representante legal o promovente": "Arturo de Jesús Gómez Leyva",
-        "Dirección": "C. Carolina Villanueva de García #206, Col. Ciudad industrial ",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.83724766",
-        "Longitud": "-102.2822379",
-        "Vencimiento ": "09/04/2020"
+        "Vencimiento ": "18/02/2020 "
     },
     {
         "ID": "8",
         "Material": "Plástico",
         "Material específico": "PET, HDPE",
         "Nombre del proyecto o establecimiento": "Reciclados Greenway",
-        "Representante legal o promovente": "María del Carmen Romo de Vivar Salgado",
         "Dirección": "Carr. Panamericana Km. 542-4, Col. Jesús Gómez Portugal",
         "Municipio": "Aguascalientes",
         "Latitud": "21.96986421",
         "Longitud": "-102.2892962",
-        "Vencimiento ": "21/08/2020"
+        "Vencimiento ": "21/08/2020 "
     },
     {
         "ID": "9",
         "Material": "Plástico",
         "Material específico": "PET, HDPE, PVC, LDPE, PP, PS",
         "Nombre del proyecto o establecimiento": "José Guadalupe Hernández Alvizo",
-        "Representante legal o promovente": "José Guadalupe Hernández Alvizo",
         "Dirección": "Carr. San Luis Potosí Km. 2, Ex Ejido Salto de Ojocaliente",
         "Municipio": "Aguascalientes",
         "Latitud": "21.86127739",
         "Longitud": "-102.2244312",
-        "Vencimiento ": "14/10/2020"
-    },
-    {
-        "ID": "10",
-        "Material": "Chatarra ferrosa, Papel",
-        "Material específico": "Acero inoxidable, Papel, Papel toalla, Chatarra ferrosa",
-        "Nombre del proyecto o establecimiento": "Redisa Metales y Materiales S.A. de C.V.",
-        "Representante legal o promovente": "Alejandro Álvarez Rodríguez",
-        "Dirección": "Carr. Norias de Ojocaliente Km. 1, Col. Norias de Ojocaliente",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.87997957",
-        "Longitud": "-102.2323676",
-        "Vencimiento ": "31/10/2020"
-    },
-    {
-        "ID": "11",
-        "Material": "Fundición, Plástico, Chatarra no ferrosa",
-        "Material específico": "Arena sílica, Aluminio, PP",
-        "Nombre del proyecto o establecimiento": "Tecnologías en Ingenieria e Innovación de Procesos Sustentables de Aguascalientes S. de R.L. de C.V.",
-        "Representante legal o promovente": "Edgar González Camacho",
-        "Dirección": "Carr. Los Arellano S/N, Parque industrial siglo XXI",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.79976052",
-        "Longitud": "-102.2963767",
-        "Vencimiento ": "08/01/2021"
-    },
-    {
-        "ID": "12",
-        "Material": "Plástico",
-        "Material específico": "PE,PEBD, PEMD, PEAD, PP, Plástico blando",
-        "Nombre del proyecto o establecimiento": "Industrializadora TP S.A. de C.V.",
-        "Representante legal o promovente": "Carlos Alberto Campos",
-        "Dirección": "Av. Mahatma Gandhi #800, Central de abastos",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.83035216",
-        "Longitud": "-102.2934813",
-        "Vencimiento ": "14/01/2021"
-    },
-    {
-        "ID": "13",
-        "Material": "Chatarra ferrosa",
-        "Material específico": "Acero",
-        "Nombre del proyecto o establecimiento": "Fundidora central de Aguascalientes S.A. de C.V.",
-        "Representante legal o promovente": "Gustavo Calzada Martínez",
-        "Dirección": "C. Francisco. I. Madero #110, Col. Cabecita tres Marías",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.77798343",
-        "Longitud": "-102.4129159",
-        "Vencimiento ": "06/02/2021"
+        "Vencimiento ": "14/10/2020 "
     },
     {
         "ID": "14",
         "Material": "Plástico",
         "Material específico": "PP, HDPE",
         "Nombre del proyecto o establecimiento": "MA. Angélica Mendoza Gómez",
-        "Representante legal o promovente": "MA. Angélica Mendoza Gómez",
         "Dirección": "Carr. Aguascalientes-Loreto Km.2, Fracc. Puertecito de la Virgen",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.96423959",
         "Longitud": "-102.2718374",
-        "Vencimiento ": "06/02/2021"
-    },
-    {
-        "ID": "15",
-        "Material": "Plástico, Chatarra no ferrosa, Cables",
-        "Material específico": "Plástico, PEBD, PEMD, Caucho, PVC, PC, PE, PU, VC, PTFE, HDPE, Aluminio, Cobre, AAC, Cable cobre",
-        "Nombre del proyecto o establecimiento": "Plastimetal Recuperadora S.A. de C.V.",
-        "Representante legal o promovente": "Jaime Sánchez Díaz",
-        "Dirección": "C. Benigno Chávez #504, Col. Centro",
-        "Municipio": "Jesús María",
-        "Latitud": "21.96621",
-        "Longitud": "-102.3468618",
-        "Vencimiento ": "09/09/2021"
+        "Vencimiento ": "06/02/2021 "
     },
     {
         "ID": "16",
         "Material": "Papel, Cartón, Plástico, Madera, Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica",
         "Material específico": "Papel, Cartón, LDPE, PET, PVC, PS, HDPE, PP, EPS, Madera, Hule espuma, Aluminio, Acero, Chatarra, Chatarra elecrónica",
         "Nombre del proyecto o establecimiento": "Manuel Eguía Rubalcava",
-        "Representante legal o promovente": "Manuel Eguía Rubalcava",
         "Dirección": "C. José Barba Alonso #107, Col. Ciudad industrial ",
         "Municipio": "Aguascalientes",
         "Latitud": "21.83250512",
         "Longitud": "-102.2838687",
-        "Vencimiento ": "01/11/2021"
-    },
-    {
-        "ID": "17",
-        "Material": "Plástico",
-        "Material específico": "PEAD, PEBD, PP, PS, ABS, Santopreno, PC-ABS, TPO",
-        "Nombre del proyecto o establecimiento": "Addcommerce México S.A. de C.V.",
-        "Representante legal o promovente": "Gloria Yazmín Orquín Campos",
-        "Dirección": "C. Laurel #110, Col. La casita",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "21.96969853",
-        "Longitud": "-102.2700588",
-        "Vencimiento ": "04/11/2021"
-    },
-    {
-        "ID": "18",
-        "Material": "Papel, Cartón, Plástico, Chatarra no ferrosa, Chatarra ferrosa",
-        "Material específico": "Papel, Cartón, PET, HDPE, PVC, LDPE, PP, PS, Aluminio, Antimonio, Cobre, Bronce, Estaño, Latón, Acero, Fierro vaciado, Troquel, Lámina, Maquinaria",
-        "Nombre del proyecto o establecimiento": "Hidromesa S.A. de C.V.",
-        "Representante legal o promovente": "Erick Feregrino Velázquez",
-        "Dirección": "Carr. Panamericana  Sur Km. 74.4, Manzana 002, Lotes 0009 y 0010, Parque industrial Altec",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.79548019",
-        "Longitud": "-102.2809041",
-        "Vencimiento ": "16/12/2021"
+        "Vencimiento ": "01/11/2021 "
     },
     {
         "ID": "19",
         "Material": "Papel, Cartón, Plástico, Madera, Chatarra ferrosa, Chatarra no ferrosa, Cables, Chatarra electrónica",
         "Material específico": "Papel filtro, Papel periódico, Papel archivo, Papel encerado, Papel toalla, Papel con adhesivo, Papel Bond, Papel Kraft, Periódico, PET, PVC, ABS, EPDM, PC, TEO, PA, PP, EPS, PEBD, PEMD, PEAD, Caucho, PMMA, POM, Emplaye, Plástico blanco, EBA, PES, Triplay, Tarima, Aglomerado, Aserrín, Chatarra ferrosa, Lámina galvanizada, Aluminio, Acero, Fierro, Fierro colado, Bronce, Acero inoxidable, ACSR, TAFP, AKC y EKI, CCC, Chatarra electrónica, Latón, Bronce estañado, Níquel, Maquinaria, Estaño",
         "Nombre del proyecto o establecimiento": "Recyca",
-        "Representante legal o promovente": "Jared Javier Sánchez Esparza",
         "Dirección": "Av. Siglo XXI #5325, Fracc. Hacienda de Aguascalientes",
         "Municipio": "Aguascalientes",
         "Latitud": "21.88316211",
         "Longitud": "-102.2498993",
-        "Vencimiento ": "16/12/2021"
-    },
-    {
-        "ID": "20",
-        "Material": "Papel, Plástico, Madera, Cartón, Chatarra ferrosa, Chatarra no ferrosa, Textiles, Cables, Chatarra electrónica, Otros",
-        "Material específico": "Papel, Papel cera, Papel toalla, Papel bond, Papel archivo, Papel craft, Periodico, Papel filtro, Caples, PP, PE, PEBD, PEMD, PEAD, PET, PVC, ABS, EPDM, PC, HDPE, PU, PA, TEO, Caucho, MMA, Emplaye, POM, Plastico blanco, EBA, Policartón, PES, Triplay, Aglomerado, Tarimas, Aserrín, Chatarra, Lámina galvanizada, Aluminio, Acero, Fierro, Fierro colado, Bronce, Cobre, Estaño, Acero inoxidable, Placa negra, ACSR-ACC, TAFP, EKC y EKI, CCC, Cable de aluminio con forro, Llantas, Tela, Vidrio, EPS, RSU, Chatarra eléctrica, Cable de aluminio con alma, Cable de cobre con alma, Latón, Cobre estañado, Bronce estañado, Níquel, Cartón",
-        "Nombre del proyecto o establecimiento": "Grupo Ferroso Lira S. de R.L. de C.V.",
-        "Representante legal o promovente": "Liliana Escoto Villavicencio",
-        "Dirección": "Av. San Gabriel #145 interior A, Col. El Rocío",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.87744025",
-        "Longitud": "-102.235966",
-        "Vencimiento ": "17/01/2022"
+        "Vencimiento ": "16/12/2021 "
     },
     {
         "ID": "21",
         "Material": "Plástico",
         "Material específico": "PEAD, LDPE, PP, PS, AS, ABS, PVS, PA",
         "Nombre del proyecto o establecimiento": "Reciclados Gutiérrez",
-        "Representante legal o promovente": "Eduardo Guitiérrez Ramírez",
         "Dirección": "C. Laurel #214, Col. La casita",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.96915312",
         "Longitud": "-102.269778",
-        "Vencimiento ": "20/01/2022"
-    },
-    {
-        "ID": "22",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa",
-        "Material específico": "Aluminio, Chatarra ferrosa",
-        "Nombre del proyecto o establecimiento": "Tecnología y metales el Tejón S.A. de C.V.",
-        "Representante legal o promovente": "Karla Viscencio López",
-        "Dirección": "C. Roberto Díaz Redríguez #411, Col. Ciudad industrial ",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.83435685",
-        "Longitud": "-102.2806513",
-        "Vencimiento ": "27/01/2022"
+        "Vencimiento ": "20/01/2022 "
     },
     {
         "ID": "23",
-        "Material": "Madera",
+        "Material": "Madera, Papel, Cartón, Otros, Plástico, Chatarra electrónica, Chatarra no ferrosa",
         "Material específico": "Madera, Tarimas",
         "Nombre del proyecto o establecimiento": "Traama Reciclados S.A. de C.V.",
-        "Representante legal o promovente": "Ana María Juárez Gómez",
         "Dirección": "C. El Arenal #213, Col. La Herrada",
         "Municipio": "Aguascalientes",
         "Latitud": "21.89972019",
         "Longitud": "-102.2187773",
-        "Vencimiento ": "26/03/2022"
+        "Vencimiento ": "26/03/2022 "
     },
     {
         "ID": "24",
         "Material": "Papel, Cartón, Otros, Plástico, Chatarra electrónica, Chatarra no ferrosa, Chatarra ferrosa",
         "Material específico": "Papel, Cartón, Vidrio, PET, LDPE, PE, HDPE, PVC, PP, Chatarra electrónica, Aluminio, Antimonio, Cobre, Bronce, Fierro, Acero, Lámina",
         "Nombre del proyecto o establecimiento": "José de Jesús Ortíz Leos",
-        "Representante legal o promovente": "José de Jesús Ortíz Leos",
         "Dirección": "Av. Aguascalientes Sur #1412, Fracc. Casa Blanca ",
         "Municipio": "Aguascalientes",
         "Latitud": "21.85979161",
         "Longitud": "-102.2760224",
-        "Vencimiento ": "15/06/2022"
-    },
-    {
-        "ID": "26",
-        "Material": "Cartón, Madera, Plástico, Papel, Chatarra no ferrosa",
-        "Material específico": "Plástic, Chatarra no ferrosa, Cartón, Papel, Madera",
-        "Nombre del proyecto o establecimiento": "Constructora integral de Aguascalientes S.A. de C.V.",
-        "Representante legal o promovente": "José Ojeda Gómez",
-        "Dirección": "Av. Héroe Inmortal Km. 1.6, Col. Los Arellano",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.83958025",
-        "Longitud": "-102.2723785",
-        "Vencimiento ": "14/08/2022"
+        "Vencimiento ": "15/06/2022 "
     },
     {
         "ID": "29",
         "Material": "Otros",
         "Material específico": "Vidrio",
         "Nombre del proyecto o establecimiento": "Centro de acopio Reyna",
-        "Representante legal o promovente": "J. Merced Reyna Aguilar",
         "Dirección": "C. Carlos M. López #826, Col. Gremial",
         "Municipio": "Aguascalientes",
         "Latitud": "21.90091753",
         "Longitud": "-102.2858183",
-        "Vencimiento ": "07/10/2022"
+        "Vencimiento ": "07/10/2022 "
     },
     {
         "ID": "31",
         "Material": "Cartón, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
         "Material específico": "Cartón, Plástico, Cobre, Bronce, Estaño, Latón, Acero, Fierro vaciado, Lámina",
         "Nombre del proyecto o establecimiento": "Mariana Donají Muñoz Franco",
-        "Representante legal o promovente": "Mariana Donají Muñoz Franco",
         "Dirección": "Carr. Panamericana #409, Fracc. Trojes de Alonso",
         "Municipio": "Jesús María",
         "Latitud": "21.94107018",
         "Longitud": "-102.2909831",
-        "Vencimiento ": "19/10/2022"
-    },
-    {
-        "ID": "32",
-        "Material": "Orgánicos",
-        "Material específico": "Lodos, Residuos orgánicos",
-        "Nombre del proyecto o establecimiento": "Rio Limpio Limpiezas Ecológicas S.A. de C.V.",
-        "Representante legal o promovente": "Gerardo Francisco Rioja Garrido",
-        "Dirección": "Carr. Cañada Onda S/N, Col. Macario J. Gómez",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "21.98354347",
-        "Longitud": "-102.2287008",
-        "Vencimiento ": "19/10/2022"
+        "Vencimiento ": "19/10/2022 "
     },
     {
         "ID": "39",
         "Material": "Madera",
         "Material específico": "Madera",
         "Nombre del proyecto o establecimiento": "Francisco Javier Cruz Briano",
-        "Representante legal o promovente": "Francisco Javier Cruz Briano",
         "Dirección": "S/C S/N, Fracc. Ladrillero los Arellanos",
         "Municipio": "Aguascalientes",
         "Latitud": "21.7954733",
         "Longitud": "-102.2675109",
-        "Vencimiento ": "08/01/2023"
-    },
-    {
-        "ID": "40",
-        "Material": "Chatarra ferrosa",
-        "Material específico": "Acero, Fierro",
-        "Nombre del proyecto o establecimiento": "Fundel S.A. de C.V.",
-        "Representante legal o promovente": "Fundel S.A. de C.V.",
-        "Dirección": "C. Carolina Villanueva de García #204, Col. Ciudad industrial ",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.83630249",
-        "Longitud": "-102.2831298",
-        "Vencimiento ": "18/01/2023"
-    },
-    {
-        "ID": "41",
-        "Material": "Madera, Papel, Cartón, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
-        "Material específico": "Madera, Tarimas, Papel, Cartón, Plástico, Chatarra ferrosa, Aluminio, Cobre, Bronce",
-        "Nombre del proyecto o establecimiento": "Reciclados y Residuos del Centro S. de R.L de C.V.",
-        "Representante legal o promovente": "Marco Antonio Jasso Narváez",
-        "Dirección": "C. Los Mezquites #119, Com. Norias de Ojo Caliente",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.90286871",
-        "Longitud": "-102.2178014",
-        "Vencimiento ": "25/01/2023"
-    },
-    {
-        "ID": "44",
-        "Material": "Papel, Cartón, Plástico, Chatarra ferrosa, Chatarra no ferrosa, Madera, Cables",
-        "Material específico": "Papel, Cartón, Cables, Madera, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
-        "Nombre del proyecto o establecimiento": "Ceris Aguascalientes S.A de C.V.",
-        "Representante legal o promovente": "César Jiménez Gaytán",
-        "Dirección": "Blvd. El chichimeco #1015-B, Col. El Barreno",
-        "Municipio": "Jesús María",
-        "Latitud": "21.98254504",
-        "Longitud": "-102.336609",
-        "Vencimiento ": "15/02/2023"
+        "Vencimiento ": "08/01/2023 "
     },
     {
         "ID": "45",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cables, Plástico, Textiles, Otros, Chatarra electrónica, Cartón",
+        "Material": "Cartón, Plástico, Chatarra ferrosa, Chatarra no ferrosa, Papel",
         "Material específico": "Lámina galvanizada, Aluminio, Acero, Fierro, Fierro colado, Bronce, Cobre, Estaño, Acero inoxidable, AAC, ACSR, TAFP, EKC y EKI, CCC, Cable polilam, Zinc, Hule, Llanta, Caucho, Tela, Vidrio, EPS, Cahatarra electrónica, Cable de cobre con alma, Bronce estañado, Níquel, Magnesio, Cartón, Maquinaria, PET, PEBD, PEAD, Bolsa",
         "Nombre del proyecto o establecimiento": "Recuperadora peñuelas",
-        "Representante legal o promovente": "Luis Franco Muñoz González",
         "Dirección": "Blvd. Aguascalientes-León Km. 107+300, Col. San Antonio Peñuelas",
         "Municipio": "Aguascalientes",
         "Latitud": "21.68727063",
         "Longitud": "-102.2854243",
-        "Vencimiento ": "08/03/2023"
+        "Vencimiento ": "08/03/2023 "
     },
     {
         "ID": "46",
         "Material": "Plástico, Chatarra ferrosa, Chatarra no ferrosa, Papel, Cartón",
         "Material específico": "Plástico, Chatarra no ferrosa, Chatarra ferrosa, Papel, Carton",
         "Nombre del proyecto o establecimiento": "Centro de acopio de residuos de manejo especial Chatafierros convención",
-        "Representante legal o promovente": "Cristina Díaz López",
         "Dirección": "Av. Convención de 1914 sur #1230, Col. IV Centenario",
         "Municipio": "Aguascalientes",
         "Latitud": "21.86748879",
         "Longitud": "-102.2796577",
-        "Vencimiento ": "22/03/2023"
+        "Vencimiento ": "22/03/2023 "
     },
     {
         "ID": "48",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel, Plástico",
         "Material específico": "Fierro, Lámina, Aluminio, Bronce, Cobre, Cartón, Papel, Papel periódico, PET, HDP, PP",
         "Nombre del proyecto o establecimiento": "Guillermo García Báez",
-        "Representante legal o promovente": "Guillermo García Báez",
         "Dirección": "Carr. San Luis Potosí #1220, Ex Ejido Salto de Ojocaliente",
         "Municipio": "Aguascalientes",
         "Latitud": "21.8632322",
         "Longitud": "-102.237613",
-        "Vencimiento ": "14/04/2023"
+        "Vencimiento ": "14/04/2023 "
     },
     {
         "ID": "49",
-        "Material": "Chatarra ferrosa",
+        "Material": "Chatarra no ferrosa, Cartón, Papel, Plástico, Chatarra ferrosa",
         "Material específico": "Acero",
         "Nombre del proyecto o establecimiento": "Desperdicios industriales de Yair S.A. de C.V.",
-        "Representante legal o promovente": "Desperdicios industriales de Yair S.A. de C.V.",
         "Dirección": "C. Jesús María Romo # 110, Col. Ciudad industrial ",
         "Municipio": "Aguascalientes",
         "Latitud": "21.83144943",
         "Longitud": "-102.2860931",
-        "Vencimiento ": "17/04/2023"
-    },
-    {
-        "ID": "50",
-        "Material": "Papel, Cartón, Plástico, Madera, Chatarra ferrosa, Chatarra no ferrosa, Cables, Textiles, Otros",
-        "Material específico": "Papel, Papel encerado, Papel toalla, Papel bond, Papel archivo, Papel kraft, Papel peridódico, Papel filtro, Cartón, PP, PE, PEBD, PEMD, PEAD, PET, PVC, ABS, EPDM, PC, PU, PA, TEO, Caucho, Acrílico, Acetal, Plástico blanco, Emplaye, EBA, PES, Triplay, Aglomerado, Tarimas, Aserrín, Chatarra, Lámina, Aluminio, Acero, Fierro, Fierro colado, Cobre, Bronce, Bujes, Estaño, Acero inoxidable, Placa negra, AAC, ACSR, TAFP, EKC, EKI, Cable polilam, Cable de aluminio con forro, Hule, Llantas, Papel kraft, PEM, Tela, Vidrio, EPS",
-        "Nombre del proyecto o establecimiento": "Korima Reciclados S.A. de C.V.",
-        "Representante legal o promovente": "Enrique José Guerra Cruz",
-        "Dirección": "Carr. Panamericana  sur S/N, Km. 113.7, Parcela 111 F, Ejido Peñuelas",
-        "Municipio": "Jesús María",
-        "Latitud": "21.74241651",
-        "Longitud": "-102.2766944",
-        "Vencimiento ": "20/04/2023"
-    },
-    {
-        "ID": "52",
-        "Material": "Cartón, Papel",
-        "Material específico": "Cartón, Papel",
-        "Nombre del proyecto o establecimiento": "Ecofibras Ponderosa S.A. de C.V. ",
-        "Representante legal o promovente": "Antonio Loeza Ambriz",
-        "Dirección": "Av. Vía Ferrocarril #2017, Fracc. Las Hadas",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.91329946",
-        "Longitud": "-102.2880276",
-        "Vencimiento ": "23/04/2023"
+        "Vencimiento ": "17/04/2023 "
     },
     {
         "ID": "53",
         "Material": "Papel, Cartón, Plástico, Chatarra ferrosa",
         "Material específico": "Papel, Cartón, PET, Fierro, Chatarra, PEAD, PEBD, PE, ",
         "Nombre del proyecto o establecimiento": "Andrade Recuperadora de residuos reciclables",
-        "Representante legal o promovente": "Elvira Díaz Negrete",
         "Dirección": "C. Navarra #114, Col. España",
         "Municipio": "Aguascalientes",
         "Latitud": "21.8625679",
         "Longitud": "-102.3131443",
-        "Vencimiento ": "29/04/2023"
+        "Vencimiento ": "29/04/2023 "
     },
     {
         "ID": "55",
         "Material": "Cartón, Papel, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
         "Material específico": "Cartón, Papel, PE, PET, Chatarra ferrosa, Chatarra no ferrosa",
         "Nombre del proyecto o establecimiento": "Claudia Gisela Lara",
-        "Representante legal o promovente": "Claudia Gisela Lara",
         "Dirección": "C. Solidaridad  #99-A, Col. La Estrella",
         "Municipio": "Aguascalientes",
         "Latitud": "21.90299001",
         "Longitud": "-102.2831279",
-        "Vencimiento ": "05/05/2023"
-    },
-    {
-        "ID": "56",
-        "Material": "Papel, Cartón, Madera, Chatarra electrónica, Plástico, Chatarra ferrosa, Chatarra no ferrosa, Cables",
-        "Material específico": "Papel, Cartón, Chatarra electrónica, Madera, Plástico, EPS, Acero, Aluminio, Bronce, Cobre, Chatarra, Cable de cobre, Carburo de tugsteno",
-        "Nombre del proyecto o establecimiento": "Plastimet del Centro de México S.A. de C.V.",
-        "Representante legal o promovente": "Luis Francisco Muñoz González",
-        "Dirección": "Blvd. Adolfo Ruiz Cortines Km. 5.1, Col. Lomas de los negritos",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.87778143",
-        "Longitud": "-102.3432997",
-        "Vencimiento ": "06/05/2023"
+        "Vencimiento ": "05/05/2023 "
     },
     {
         "ID": "57",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Plástico, Chatarra electrónica, Papel, Madera, Cables",
         "Material específico": "Aluminio, Cobre, Cartón, Plástico, Cahtarra elctrónica, Madera, Leña, Papel bond, PET, PE, Plástico duro, Tarima, PVC, AAC, ACSR, TAFP, EKC y EKI, CCC, Caucho, Aluminio, Bonce, Fierro, Acero, Estaño, Cobre estañado, Emplaye, HDPE, Lámina galvanizada, PES, PA, Papel, Papel archivo, Papel cera, Papel filtro, Papel kraft, Periódico, PC, Plástico blanco, Policartón, EPS, PEAD, PEMD, PEBD, PP, PU, PVC, Bronce, Fierro colado, Cartón",
         "Nombre del proyecto o establecimiento": "Recicladora Ávila",
-        "Representante legal o promovente": "Mario Ávila Jiménez",
         "Dirección": "Carr. Aguascalientes-Loreto #245-B, Ex Viñedos de Guadalupe",
         "Municipio": "Aguascalientes",
         "Latitud": "21.96107611",
         "Longitud": "-102.2748592",
-        "Vencimiento ": "12/05/2023"
+        "Vencimiento ": "12/05/2023 "
     },
     {
         "ID": "58",
         "Material": "Cartón",
         "Material específico": "Cartón",
         "Nombre del proyecto o establecimiento": "Compra-venta y acopio de residuos de manejo especial",
-        "Representante legal o promovente": "Claudia Gisela Lara",
         "Dirección": "C. Paseos de Solidaridad #99-A, Fracc. La estrella",
         "Municipio": "Aguascalientes",
         "Latitud": "21.90299001",
@@ -517,34 +243,20 @@
     },
     {
         "ID": "59",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa",
+        "Material": "Chatarra ferrosa",
         "Material específico": "Chatarra ferrosa, Chatarra no ferrosa",
         "Nombre del proyecto o establecimiento": "Reciclados Industriales La Peña S.A. de C.V.",
-        "Representante legal o promovente": "Erika Feregrino Velázquez",
         "Dirección": "Av. Mahatma Gandhi #109, Col. Martínez Domínguez",
         "Municipio": "Aguascalientes",
         "Latitud": "21.85586705",
         "Longitud": "-102.2951039",
-        "Vencimiento ": "20/05/2023"
-    },
-    {
-        "ID": "60",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Madera, Cartón, Papel, Plástico, Otros",
-        "Material específico": "Aluminio, Acero inoxidable, Cobre, Niquel, Lodo, Bronce, Chatarra ferrosa, Acero, Abrasivos, Estaño, Latón, Madera, Cartón, Papel, PET, PP, PEBD, PEAD, Vidrio, Resinas",
-        "Nombre del proyecto o establecimiento": "J&R Metals and Alloys S. de R.L. de C.V.",
-        "Representante legal o promovente": "José Muricio Cruz Galván",
-        "Dirección": "Rancho San Sebastián Km. 65.38, Com. El retoño",
-        "Municipio": "El Llano",
-        "Latitud": "21.83072455",
-        "Longitud": "-102.1302561",
-        "Vencimiento ": "21/05/2023"
+        "Vencimiento ": "20/05/2023 "
     },
     {
         "ID": "62",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica, Plástico, Cartón, Madera, Papel",
         "Material específico": "Fierro vaciado, Fierro al carbón, Lámina, Limadura de hierro, Acero inoxidable, Acero galvanizado, Aluminio, Cobre, Bronce, Antimonio, Plomo, Cartón, PET, HDPE, PVC, PP, PA, Playo Papel, Chatarra electrónica, Madera",
         "Nombre del proyecto o establecimiento": "Centro de acopio, tratamiento, reutilización y reciclaje de residuos sólidos urbanos y de manejo especial",
-        "Representante legal o promovente": "Alfredo Cruz de la Rosa",
         "Dirección": "Carr. Aguascalientes-Loreto  Km. 2.1, La Guayana",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.96488939",
@@ -553,1442 +265,949 @@
     },
     {
         "ID": "63",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica, Plástico, Madera, Papel, Cartón, Otros",
+        "Material": "Chatarra no ferrosa, Chatarra electrónica, Plástico, Cartón, Madera, Papel, Chatarra ferrosa",
         "Material específico": "Chatarra ferrosa, Llantas, chatarra electrónica, Cobre, Bronce, Aluminio, Madera, RSU, Papel, Cartón, Plástico, Vidrio",
         "Nombre del proyecto o establecimiento": "Majose Recicladora S.A. de C.V. (Bodega 3)",
-        "Representante legal o promovente": "Ana Luisa Velázquez Feregrino",
         "Dirección": "Av. Mahatma Gandhi #1696, Col. San Francisco del Arenal",
         "Municipio": "Aguascalientes",
         "Latitud": "21.83018752",
         "Longitud": "-102.2939001",
-        "Vencimiento ": "18/06/2023"
-    },
-    {
-        "ID": "64",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Plástico, Madera, Papel, Chatarra electrónica",
-        "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Plástico, Chatarra electrónica, Madera, Papel",
-        "Nombre del proyecto o establecimiento": "Flextronics manufacturing Aguascalientes S.A. de C.V.",
-        "Representante legal o promovente": "Oscar Guadalupe Castillo Hernández",
-        "Dirección": "Blvd. Zacatecas Km. 9.5, Trojes de Alonso",
-        "Municipio": "Jesús María",
-        "Latitud": "21.95984449",
-        "Longitud": "-102.2904342",
-        "Vencimiento ": "30/06/2023"
-    },
-    {
-        "ID": "65",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Plástico, Cartón, Madera",
-        "Material específico": "Galvanil, Fierro, Cobre, Bronce, Aluminio, Acero inoxidable, Plástico, Cartón, Madera, Rebaba de acero",
-        "Nombre del proyecto o establecimiento": "Recicla Ambiente S.A. de C.V.",
-        "Representante legal o promovente": "Recicla Ambiente S.A. de C.V.",
-        "Dirección": "Carr. La Escondida Km. 1.09, Col. La Escondida",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "21.93361696",
-        "Longitud": "-102.3417365",
-        "Vencimiento ": "01/07/2023"
-    },
-    {
-        "ID": "66",
-        "Material": "Plástico",
-        "Material específico": "PEAD, PEBD, Hule espuma",
-        "Nombre del proyecto o establecimiento": "Bolsas artesanales de occidente S.A. de C.V.",
-        "Representante legal o promovente": "José de Jesús Ramírez Hernandez",
-        "Dirección": "C. Guadalupe #1000, Com. Maravillas",
-        "Municipio": "Jesús María",
-        "Latitud": "21.95301",
-        "Longitud": "-102.3356105",
-        "Vencimiento ": "08/07/2023"
-    },
-    {
-        "ID": "67",
-        "Material": "Plástico",
-        "Material específico": "PEBD",
-        "Nombre del proyecto o establecimiento": "Duraductos plásticos S.A. de C.V.",
-        "Representante legal o promovente": "Duraductos plásticos S.A. de C.V.",
-        "Dirección": "C. Julio Díaz Torre #206, Col. Ciudad industrial ",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.84063873",
-        "Longitud": "-102.2791155",
-        "Vencimiento ": "14/07/2023"
+        "Vencimiento ": "18/06/2023 "
     },
     {
         "ID": "68",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Madera, Plástico",
         "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Madera, Plástico",
         "Nombre del proyecto o establecimiento": "Centro de acopio Guerrero",
-        "Representante legal o promovente": "Guillermo Guerrero Télez",
         "Dirección": "Av. Siglo XXI S/N, Fracc. Pozo Bravo",
         "Municipio": "Aguascalientes",
         "Latitud": "21.9400117",
         "Longitud": "-102.2769628",
-        "Vencimiento ": "16/07/2023"
+        "Vencimiento ": "16/07/2023 "
     },
     {
         "ID": "69",
-        "Material": "Orgánicos",
+        "Material": "Chatarra no ferrosa, Cartón, Madera, Plástico, Orgánicos",
         "Material específico": "Acite vegetal, Glicerina",
         "Nombre del proyecto o establecimiento": "Reco reuse company S.A. de C.V.",
-        "Representante legal o promovente": "Recoreusecompany S.A. de C.V.",
         "Dirección": "C. Filemón Alonso Muñoz #124, Col. Ciudad industrial ",
         "Municipio": "Aguascalientes",
         "Latitud": "21.84230576",
         "Longitud": "-102.2869169",
-        "Vencimiento ": "16/07/2023"
+        "Vencimiento ": "16/07/2023 "
     },
     {
         "ID": "70",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa, Papel, Cartón, Plástico",
         "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel, PET, Plástico duro, Neumático, PEAD, PEBD, Madera, Metal ferroso, Chatarra electrónica ",
         "Nombre del proyecto o establecimiento": "Recicladora las Hadas Sucursal San Francisco de los Romos",
-        "Representante legal o promovente": "Alejandro Prieto Ávalos",
         "Dirección": "Parcela 46 ZOP 2/3 Fracción 1, Chicalote S/N",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.98422183",
         "Longitud": "-102.2408509",
-        "Vencimiento ": "11/08/2023"
+        "Vencimiento ": "11/08/2023 "
     },
     {
         "ID": "71",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel, Plástico",
         "Material específico": "Cartón, Papel, PET, Plástico duro, Chatarra, PE",
         "Nombre del proyecto o establecimiento": "Centro de acopio Álvarez",
-        "Representante legal o promovente": "Adrián Álvarez Mota",
         "Dirección": "Av. Aguascalientes #1408-A, Curtidores",
         "Municipio": "Aguascalientes",
         "Latitud": "21.88555217",
         "Longitud": "-102.3175283",
-        "Vencimiento ": "12/08/2023"
-    },
-    {
-        "ID": "72",
-        "Material": "Plástico",
-        "Material específico": "Llantas",
-        "Nombre del proyecto o establecimiento": "Grupo Biollant",
-        "Representante legal o promovente": "Juan José Paredes Cruz",
-        "Dirección": "C. El Potrero S/N, Ejido San Ignacio",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.89500375",
-        "Longitud": "-102.336468",
-        "Vencimiento ": "24/08/2023"
-    },
-    {
-        "ID": "73",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Plástico, Fundición",
-        "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Plástico, Arena sílica, Unicel",
-        "Nombre del proyecto o establecimiento": "Desperdicios industriales de Yair S.A. de C.V.",
-        "Representante legal o promovente": "Desperdicios industriales de Yair S.A. de C.V.",
-        "Dirección": "Blvd. Adolfo Ruiz Cortinez K. 3.5, Col. Francisco Villa",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.87433625",
-        "Longitud": "-102.3255484",
-        "Vencimiento ": "25/08/2023"
-    },
-    {
-        "ID": "74",
-        "Material": "Madera, Cartón, Textiles, Orgánicos",
-        "Material específico": "Tarimas, Carón, Aserrín, Leña, Tela, Estiércol, Pollinaza, Cerdaza, Podas, Maíz",
-        "Nombre del proyecto o establecimiento": "Fabricación de Ladrillos y Reciclados Herrera",
-        "Representante legal o promovente": "Heriberto Salas Herrera",
-        "Dirección": "C. Palomas #101, El Conejal",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.91946421",
-        "Longitud": "-102.216358",
-        "Vencimiento ": "25/08/2023"
-    },
-    {
-        "ID": "75",
-        "Material": "Madera",
-        "Material específico": "Tarimas",
-        "Nombre del proyecto o establecimiento": "Redeper",
-        "Representante legal o promovente": "Armando Manuel Pérez Jiménez",
-        "Dirección": "Av. Niños Héroes #122, Col. Trojes Alonso",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.93824666",
-        "Longitud": "-102.2945399",
-        "Vencimiento ": "26/08/2023"
-    },
-    {
-        "ID": "76",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa",
-        "Material específico": "Auminio, Acero, Fierrro, Estaño, Cobre, Fierro colado, Bronce, Acero inoxidable",
-        "Nombre del proyecto o establecimiento": "Reciclables Pineda Moctezuma S.A. de C.V.",
-        "Representante legal o promovente": "Reciclables Pineda Moctezuma S.A. de C.V.",
-        "Dirección": "Carr. La Escondida Km. 1.09, Col. La Escondida",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "22.04232339",
-        "Longitud": "-102.2647454",
-        "Vencimiento ": "03/09/2023"
+        "Vencimiento ": "12/08/2023 "
     },
     {
         "ID": "77",
         "Material": "Plástico, Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel",
         "Material específico": "PET, Fierro, Cartón, Papel, Aluminio",
         "Nombre del proyecto o establecimiento": "Centro de acopio Grupo Sánchez",
-        "Representante legal o promovente": "Erick Sánchez Esparza",
         "Dirección": "Av. Margarita Maza de Juarez  #510, Fundadores",
         "Municipio": "Aguascalientes",
         "Latitud": "21.84740903",
         "Longitud": "-102.2468617",
-        "Vencimiento ": "07/09/2023"
-    },
-    {
-        "ID": "79",
-        "Material": "Orgánicos",
-        "Material específico": "Aceite vegetal usado, Grasas animales, Mezcla de aceite-grasa",
-        "Nombre del proyecto o establecimiento": "Bernardino Flores Valles",
-        "Representante legal o promovente": "Bernardino Flores Valles",
-        "Dirección": "Antiguo camino a carboneras  S/N, Rancho Vaivén",
-        "Municipio": "Pabellón de Arteaga",
-        "Latitud": "22.16570937",
-        "Longitud": "-102.2639437",
-        "Vencimiento ": "24/09/2023"
-    },
-    {
-        "ID": "80",
-        "Material": "Plástico, Chatarra no ferrosa, Madera, Papel, Cartón, Chatarra ferrosa",
-        "Material específico": "Plástico, Aluminio, Madera, Llantas, Cartón, Papel, Papel archivo, Papel periódico, Libros, Revistas, Chatarra",
-        "Nombre del proyecto o establecimiento": "Grupo Remex recicladores mexicanos",
-        "Representante legal o promovente": "José Luis Hernández Vázquez",
-        "Dirección": "Av. Mahatma Gandhi #108, Col. San Pedro",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.84306849",
-        "Longitud": "-102.2932805",
-        "Vencimiento ": "25/09/2023"
-    },
-    {
-        "ID": "81",
-        "Material": "Orgánicos",
-        "Material específico": "Lodos, Residuos orgánicos",
-        "Nombre del proyecto o establecimiento": "Centro de acopio Grupo Sánchez",
-        "Representante legal o promovente": "Erick Sánchez Esparza",
-        "Dirección": "Carr. Aguascalientes-Loreto Km. 2.5, La Guayana",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.96594473",
-        "Longitud": "-102.2706919",
-        "Vencimiento ": "27/09/2023"
+        "Vencimiento ": "07/09/2023 "
     },
     {
         "ID": "82",
         "Material": "Cartón, Plástico, Chatarra ferrosa, Chatarra no ferrosa, Madera, Papel",
         "Material específico": "Cartón, PET, HDPE, PVC, LDPE, PP, PS, Fierro vaciado, Troquel, Cobre, Bromce, Aluminio, Papel, Madera",
         "Nombre del proyecto o establecimiento": "Juan Juárez Delgado",
-        "Representante legal o promovente": "Juan Juárez Delgado",
         "Dirección": "Carr. Macario J. Gómez-Loretito #910, Col. Macario J. Gómez",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.98362214",
         "Longitud": "-102.2514762",
-        "Vencimiento ": "30/09/2023"
-    },
-    {
-        "ID": "83",
-        "Material": "Textiles",
-        "Material específico": "Algodón, Felpa, Tafeta, Poliéster",
-        "Nombre del proyecto o establecimiento": "Josué Abimael Díaz Alvarado",
-        "Representante legal o promovente": "Josué Abimael Díaz Alvarado",
-        "Dirección": "C. Pedro García Rojas #508, Col. Miravalle",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.891955",
-        "Longitud": "-102.3099917",
-        "Vencimiento ": "25/10/2023"
+        "Vencimiento ": "30/09/2023 "
     },
     {
         "ID": "84",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica, Cartón, Madera, Plástico, Papel",
         "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, cartón, PET, HDPE, PVC, PP, Papel, Madera, Chatarra electrónica",
         "Nombre del proyecto o establecimiento": "ECO RECYCLER",
-        "Representante legal o promovente": "Alejandro Prieto Vargas",
         "Dirección": "C. Viñedos Ribier  Km. 2, La Guayana",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.98033342",
         "Longitud": "-102.2668608",
-        "Vencimiento ": "10/11/2023"
+        "Vencimiento ": "10/11/2023 "
     },
     {
         "ID": "85",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel, Plástico",
         "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel, PET, Plástico duro",
         "Nombre del proyecto o establecimiento": "Alejandro Prieto Ávalos",
-        "Representante legal o promovente": "Alejandro Prieto Ávalos",
         "Dirección": "Av. Héroe de Nacozari Norte #2607, Fracc. Las Hadas",
         "Municipio": "Aguascalientes",
         "Latitud": "21.90742661",
         "Longitud": "-102.2901115",
-        "Vencimiento ": "10/11/2023"
-    },
-    {
-        "ID": "86",
-        "Material": "Plástico",
-        "Material específico": "PEBD, PEAD",
-        "Nombre del proyecto o establecimiento": "Grupo Efru S.A. de C.V.",
-        "Representante legal o promovente": "Grupo Efru S.A. de C.V.",
-        "Dirección": "J. Gómez Portugal #112, Km. 3, Col. Jesús Gómez Portugal",
-        "Municipio": "Jesús María",
-        "Latitud": "21.98809228",
-        "Longitud": "-102.3157234",
-        "Vencimiento ": "11/11/2023"
+        "Vencimiento ": "10/11/2023 "
     },
     {
         "ID": "87",
         "Material": "Plástico, Madera, Cartón, Papel, Chatarra ferrosa",
         "Material específico": "PEBD, PEMD, PEAD, PET, PVC, HDPE, Plástico, Madera, Cartón, Papel, Perioódico, Chatarra ferrosa, Chatarra no ferrosa, Aluminio, Bronce, Cobre, Acero",
         "Nombre del proyecto o establecimiento": "Grupo Robles",
-        "Representante legal o promovente": "María Cristina Robles Reyna",
         "Dirección": "C. José Trinidad Vela Salas #103, Fracc. José Guadalupe Peralta Gámez",
         "Municipio": "Aguascalientes",
         "Latitud": "21.87513687",
         "Longitud": "-102.2294339",
-        "Vencimiento ": "17/11/2023"
+        "Vencimiento ": "17/11/2023 "
     },
     {
         "ID": "88",
-        "Material": "Madera",
+        "Material": "Madera, Cartón, Papel, Chatarra ferrosa, Chatarra no ferrosa",
         "Material específico": "Tarimas",
         "Nombre del proyecto o establecimiento": "Ma. Elena Salazar Linares",
-        "Representante legal o promovente": "Ma. Elena Salazar Linares",
         "Dirección": "Blvd. Guadalupano, Carr. Cañada Honda Km. 2, Cumbres II",
         "Municipio": "Aguascalientes",
         "Latitud": "21.92956633",
         "Longitud": "-102.2345922",
-        "Vencimiento ": "18/11/2023"
-    },
-    {
-        "ID": "89",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Madera, Plástico, Otros, Textiles, Papel",
-        "Material específico": "Acero, Fierro, Aluminio, Cobre, Bronce, Latón, Cartón pastificado, Tarimas, Tablas, PET, HDPE, PVC, PEBD, PP, PS, PA, PMMA, Hule, Vidrio, Tetrapack, Zinc, Textiles, Papel",
-        "Nombre del proyecto o establecimiento": "Frisco Metales S.A. de C.V.",
-        "Representante legal o promovente": "Frisco Metales S.A. de C.V.",
-        "Dirección": "Av.México #207-H, Manzana 2, Lote 4, Parque industrial San Francisco",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "22.03135591",
-        "Longitud": "-102.2667165",
-        "Vencimiento ": "19/11/2023"
-    },
-    {
-        "ID": "90",
-        "Material": "Escombros de Construcción",
-        "Material específico": "Arena sílica",
-        "Nombre del proyecto o establecimiento": "Adrián González Cárdenas",
-        "Representante legal o promovente": "Adrián González Cárdenas",
-        "Dirección": "Parcela 14-Z1-P1/6 S/N, Ejido San Jacinto",
-        "Municipio": "Cosío",
-        "Latitud": "22.30060682",
-        "Longitud": "-102.271514",
-        "Vencimiento ": "20/11/2023"
+        "Vencimiento ": "18/11/2023 "
     },
     {
         "ID": "91",
         "Material": "Plástico, Papel, Cartón, Chatarra ferrosa, Chatarra no ferrosa",
         "Material específico": "Plástico, Papel, Cartón, Aluminio, Cobre, Fierro",
         "Nombre del proyecto o establecimiento": "Edgar Uriel Méndez de la Riva",
-        "Representante legal o promovente": "Edgar Uriel Méndez de la Riva",
         "Dirección": "Av. Abraham González #1218, lote 36, Fracc. Héroes insurgentes",
         "Municipio": "Aguascalientes",
         "Latitud": "21.84995837",
         "Longitud": "-102.3093866",
-        "Vencimiento ": "09/12/2023"
-    },
-    {
-        "ID": "92",
-        "Material": "Madera",
-        "Material específico": "Tarimas",
-        "Nombre del proyecto o establecimiento": "Tarimas, Cajas y Muebles S.A. de C.V.",
-        "Representante legal o promovente": "Tarimas, Cajas y Muebles S.A. de C.V.",
-        "Dirección": "Carr. Aguascalientes-Loreto Km. 2.4, Ejido La Guayana",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "21.9649032",
-        "Longitud": "-102.2715731",
-        "Vencimiento ": "16/12/2023"
-    },
-    {
-        "ID": "93",
-        "Material": "Plástico",
-        "Material específico": "PES",
-        "Nombre del proyecto o establecimiento": "Poliestireno del Centro S.A. de C.V.",
-        "Representante legal o promovente": "Poliestireno del Centro S.A. de C.V.",
-        "Dirección": "Carr. Aguascalientes-Calvillo Km. 10, Com. Santa cruz de la presa",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.89327356",
-        "Longitud": "-102.381655",
-        "Vencimiento ": "18/12/2023"
+        "Vencimiento ": "09/12/2023 "
     },
     {
         "ID": "94",
-        "Material": "Papel, Cartón, Plástico, Madera, Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica, Orgánicos",
+        "Material": "Orgánicos, Chatarra ferrosa",
         "Material específico": "Papel, Cartón, LDPE, PET, PVC, PS, HDPE, PP, EPS, Madera, Chatarra ferrosa, chatarra no ferrosa, Unicel, Hule espuma, Chatarra electrónica, Aceite vegetal",
         "Nombre del proyecto o establecimiento": "GEN industrial S.A. de C.V.",
-        "Representante legal o promovente": "GEN industrial S.A. de C.V.",
         "Dirección": "C. José Barba Alonso #104, Col. Ciudad industrial ",
         "Municipio": "Aguascalientes",
         "Latitud": "21.83314985",
         "Longitud": "-102.2842636",
-        "Vencimiento ": "07/01/2024"
+        "Vencimiento ": "07/01/2024 "
     },
     {
         "ID": "95",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa",
         "Material específico": "Chatarra ferrosa, Chatarra no ferrosa",
         "Nombre del proyecto o establecimiento": "Centro de acopio Imperio Oriente",
-        "Representante legal o promovente": "José de Jesús Chairez Saucedo",
         "Dirección": "C. Nicolas Esparza Sustaita S/N, Col. Progreso norte",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.14701548",
         "Longitud": "-102.2839762",
-        "Vencimiento ": "12/01/2024"
+        "Vencimiento ": "12/01/2024 "
+    },
+
+    {
+        "ID": "55",
+        "Material": "Cartón, Papel, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
+        "Material específico": "Cartón, Papel, PE, PET, Chatarra ferrosa, Chatarra no ferrosa",
+        "Nombre del proyecto o establecimiento": "Claudia Gisela Lara",
+        "Dirección": "C. Solidaridad  #99-A, Col. La Estrella",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.90299001",
+        "Longitud": "-102.2831279",
+        "Vencimiento ": "05/05/2023 "
+    },
+    {
+        "ID": "57",
+        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Plástico, Chatarra electrónica, Papel, Madera, Cables",
+        "Material específico": "Aluminio, Cobre, Cartón, Plástico, Cahtarra elctrónica, Madera, Leña, Papel bond, PET, PE, Plástico duro, Tarima, PVC, AAC, ACSR, TAFP, EKC y EKI, CCC, Caucho, Aluminio, Bonce, Fierro, Acero, Estaño, Cobre estañado, Emplaye, HDPE, Lámina galvanizada, PES, PA, Papel, Papel archivo, Papel cera, Papel filtro, Papel kraft, Periódico, PC, Plástico blanco, Policartón, EPS, PEAD, PEMD, PEBD, PP, PU, PVC, Bronce, Fierro colado, Cartón",
+        "Nombre del proyecto o establecimiento": "Recicladora Ávila",
+        "Dirección": "Carr. Aguascalientes-Loreto #245-B, Ex Viñedos de Guadalupe",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.96107611",
+        "Longitud": "-102.2748592",
+        "Vencimiento ": "12/05/2023 "
+    },
+    {
+        "ID": "58",
+        "Material": "Cartón",
+        "Material específico": "Cartón",
+        "Nombre del proyecto o establecimiento": "Compra-venta y acopio de residuos de manejo especial",
+        "Dirección": "C. Paseos de Solidaridad #99-A, Fracc. La estrella",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.90299001",
+        "Longitud": "-102.2831279",
+        "Vencimiento ": "19/05/2023 "
+    },
+    {
+        "ID": "59",
+        "Material": "Chatarra ferrosa",
+        "Material específico": "Chatarra ferrosa, Chatarra no ferrosa",
+        "Nombre del proyecto o establecimiento": "Reciclados Industriales La Peña S.A. de C.V.",
+        "Dirección": "Av. Mahatma Gandhi #109, Col. Martínez Domínguez",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.85586705",
+        "Longitud": "-102.2951039",
+        "Vencimiento ": "20/05/2023 "
+    },
+    {
+        "ID": "62",
+        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica, Plástico, Cartón, Madera, Papel",
+        "Material específico": "Fierro vaciado, Fierro al carbón, Lámina, Limadura de hierro, Acero inoxidable, Acero galvanizado, Aluminio, Cobre, Bronce, Antimonio, Plomo, Cartón, PET, HDPE, PVC, PP, PA, Playo Papel, Chatarra electrónica, Madera",
+        "Nombre del proyecto o establecimiento": "Centro de acopio, tratamiento, reutilización y reciclaje de residuos sólidos urbanos y de manejo especial",
+        "Dirección": "Carr. Aguascalientes-Loreto  Km. 2.1, La Guayana",
+        "Municipio": "San Francisco de los Romos",
+        "Latitud": "21.96488939",
+        "Longitud": "-102.2716111",
+        "Vencimiento ": "28/05/2023 "
+    },
+    {
+        "ID": "63",
+        "Material": "Chatarra no ferrosa, Chatarra electrónica, Plástico, Cartón, Madera, Papel, Chatarra ferrosa",
+        "Material específico": "Chatarra ferrosa, Llantas, chatarra electrónica, Cobre, Bronce, Aluminio, Madera, RSU, Papel, Cartón, Plástico, Vidrio",
+        "Nombre del proyecto o establecimiento": "Majose Recicladora S.A. de C.V. (Bodega 3)",
+        "Dirección": "Av. Mahatma Gandhi #1696, Col. San Francisco del Arenal",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.83018752",
+        "Longitud": "-102.2939001",
+        "Vencimiento ": "18/06/2023 "
+    },
+    {
+        "ID": "68",
+        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Madera, Plástico",
+        "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Madera, Plástico",
+        "Nombre del proyecto o establecimiento": "Centro de acopio Guerrero",
+        "Dirección": "Av. Siglo XXI S/N, Fracc. Pozo Bravo",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.9400117",
+        "Longitud": "-102.2769628",
+        "Vencimiento ": "16/07/2023 "
+    },
+    {
+        "ID": "69",
+        "Material": "Chatarra no ferrosa, Cartón, Madera, Plástico, Orgánicos",
+        "Material específico": "Acite vegetal, Glicerina",
+        "Nombre del proyecto o establecimiento": "Reco reuse company S.A. de C.V.",
+        "Dirección": "C. Filemón Alonso Muñoz #124, Col. Ciudad industrial ",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.84230576",
+        "Longitud": "-102.2869169",
+        "Vencimiento ": "16/07/2023 "
+    },
+    {
+        "ID": "70",
+        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Papel, Cartón, Plástico",
+        "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel, PET, Plástico duro, Neumático, PEAD, PEBD, Madera, Metal ferroso, Chatarra electrónica ",
+        "Nombre del proyecto o establecimiento": "Recicladora las Hadas Sucursal San Francisco de los Romos",
+        "Dirección": "Parcela 46 ZOP 2/3 Fracción 1, Chicalote S/N",
+        "Municipio": "San Francisco de los Romos",
+        "Latitud": "21.98422183",
+        "Longitud": "-102.2408509",
+        "Vencimiento ": "11/08/2023 "
+    },
+    {
+        "ID": "71",
+        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel, Plástico",
+        "Material específico": "Cartón, Papel, PET, Plástico duro, Chatarra, PE",
+        "Nombre del proyecto o establecimiento": "Centro de acopio Álvarez",
+        "Dirección": "Av. Aguascalientes #1408-A, Curtidores",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.88555217",
+        "Longitud": "-102.3175283",
+        "Vencimiento ": "12/08/2023 "
+    },
+    {
+        "ID": "77",
+        "Material": "Plástico, Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel",
+        "Material específico": "PET, Fierro, Cartón, Papel, Aluminio",
+        "Nombre del proyecto o establecimiento": "Centro de acopio Grupo Sánchez",
+        "Dirección": "Av. Margarita Maza de Juarez  #510, Fundadores",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.84740903",
+        "Longitud": "-102.2468617",
+        "Vencimiento ": "07/09/2023 "
+    },
+    {
+        "ID": "82",
+        "Material": "Cartón, Plástico, Chatarra ferrosa, Chatarra no ferrosa, Madera, Papel",
+        "Material específico": "Cartón, PET, HDPE, PVC, LDPE, PP, PS, Fierro vaciado, Troquel, Cobre, Bromce, Aluminio, Papel, Madera",
+        "Nombre del proyecto o establecimiento": "Juan Juárez Delgado",
+        "Dirección": "Carr. Macario J. Gómez-Loretito #910, Col. Macario J. Gómez",
+        "Municipio": "San Francisco de los Romos",
+        "Latitud": "21.98362214",
+        "Longitud": "-102.2514762",
+        "Vencimiento ": "30/09/2023 "
+    },
+    {
+        "ID": "84",
+        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica, Cartón, Madera, Plástico, Papel",
+        "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, cartón, PET, HDPE, PVC, PP, Papel, Madera, Chatarra electrónica",
+        "Nombre del proyecto o establecimiento": "ECO RECYCLER",
+        "Dirección": "C. Viñedos Ribier  Km. 2, La Guayana",
+        "Municipio": "San Francisco de los Romos",
+        "Latitud": "21.98033342",
+        "Longitud": "-102.2668608",
+        "Vencimiento ": "10/11/2023 "
+    },
+    {
+        "ID": "85",
+        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel, Plástico",
+        "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel, PET, Plástico duro",
+        "Nombre del proyecto o establecimiento": "Alejandro Prieto Ávalos",
+        "Dirección": "Av. Héroe de Nacozari Norte #2607, Fracc. Las Hadas",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.90742661",
+        "Longitud": "-102.2901115",
+        "Vencimiento ": "10/11/2023 "
+    },
+    {
+        "ID": "87",
+        "Material": "Plástico, Madera, Cartón, Papel, Chatarra ferrosa",
+        "Material específico": "PEBD, PEMD, PEAD, PET, PVC, HDPE, Plástico, Madera, Cartón, Papel, Perioódico, Chatarra ferrosa, Chatarra no ferrosa, Aluminio, Bronce, Cobre, Acero",
+        "Nombre del proyecto o establecimiento": "Grupo Robles",
+        "Dirección": "C. José Trinidad Vela Salas #103, Fracc. José Guadalupe Peralta Gámez",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.87513687",
+        "Longitud": "-102.2294339",
+        "Vencimiento ": "17/11/2023 "
+    },
+    {
+        "ID": "88",
+        "Material": "Madera, Cartón, Papel, Chatarra ferrosa, Chatarra no ferrosa",
+        "Material específico": "Tarimas",
+        "Nombre del proyecto o establecimiento": "Ma. Elena Salazar Linares",
+        "Dirección": "Blvd. Guadalupano, Carr. Cañada Honda Km. 2, Cumbres II",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.92956633",
+        "Longitud": "-102.2345922",
+        "Vencimiento ": "18/11/2023 "
+    },
+    {
+        "ID": "91",
+        "Material": "Plástico, Papel, Cartón, Chatarra ferrosa, Chatarra no ferrosa",
+        "Material específico": "Plástico, Papel, Cartón, Aluminio, Cobre, Fierro",
+        "Nombre del proyecto o establecimiento": "Edgar Uriel Méndez de la Riva",
+        "Dirección": "Av. Abraham González #1218, lote 36, Fracc. Héroes insurgentes",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.84995837",
+        "Longitud": "-102.3093866",
+        "Vencimiento ": "09/12/2023 "
+    },
+    {
+        "ID": "94",
+        "Material": "Orgánicos, Chatarra ferrosa",
+        "Material específico": "Papel, Cartón, LDPE, PET, PVC, PS, HDPE, PP, EPS, Madera, Chatarra ferrosa, chatarra no ferrosa, Unicel, Hule espuma, Chatarra electrónica, Aceite vegetal",
+        "Nombre del proyecto o establecimiento": "GEN industrial S.A. de C.V.",
+        "Dirección": "C. José Barba Alonso #104, Col. Ciudad industrial ",
+        "Municipio": "Aguascalientes",
+        "Latitud": "21.83314985",
+        "Longitud": "-102.2842636",
+        "Vencimiento ": "07/01/2024 "
+    },
+    {
+        "ID": "95",
+        "Material": "Chatarra ferrosa, Chatarra no ferrosa",
+        "Material específico": "Chatarra ferrosa, Chatarra no ferrosa",
+        "Nombre del proyecto o establecimiento": "Centro de acopio Imperio Oriente",
+        "Dirección": "C. Nicolas Esparza Sustaita S/N, Col. Progreso norte",
+        "Municipio": "Pabellón de Arteaga",
+        "Latitud": "22.14701548",
+        "Longitud": "-102.2839762",
+        "Vencimiento ": "12/01/2024 "
     },
     {
         "ID": "96",
         "Material": "Cartón, Papel, Plástico, Madera, Otros, Chatarra ferrosa",
         "Material específico": "Cartón, Papel, PET, Madera, Vidrio, Chatarra",
         "Nombre del proyecto o establecimiento": "José Luis Hernández Vázquez",
-        "Representante legal o promovente": "José Luis Hernández Vázquez",
         "Dirección": "C. Laurel #199, Col. La casita del centro",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.96836827",
         "Longitud": "-102.2687778",
-        "Vencimiento ": "17/01/2024"
+        "Vencimiento ": "17/01/2024 "
     },
     {
         "ID": "97",
-        "Material": "Papel, Cartón, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
+        "Material": "Papel, Plástico, Madera, Otros, Chatarra ferrosa, Papel",
         "Material específico": "Papel, Cartón, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
         "Nombre del proyecto o establecimiento": "Reciclados Industriales La Peña S.A. de C.V.",
-        "Representante legal o promovente": "Reciclados Industriales La Peña S.A. de C.V.",
         "Dirección": "Carr. Panamericana sur Km. 74.4, Manzana 002, Lotes 009 y 010",
         "Municipio": "Aguascalientes",
         "Latitud": "21.79548019",
         "Longitud": "-102.2809041",
-        "Vencimiento ": "18/01/2024"
-    },
-    {
-        "ID": "98",
-        "Material": "Chatarra no ferrosa",
-        "Material específico": "Aluminio",
-        "Nombre del proyecto o establecimiento": "T.S.T. Nikkei Metales S. de R.L. de C.V.",
-        "Representante legal o promovente": "T.S.T. Nikkei Metales S. de R.L. de C.V.",
-        "Dirección": "Carr. Los Arellanos S/N, Col. Los Arellano",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.79958377",
-        "Longitud": "-102.2952858",
-        "Vencimiento ": "18/01/2024"
-    },
-    {
-        "ID": "99",
-        "Material": "Madera",
-        "Material específico": "Tarimas",
-        "Nombre del proyecto o establecimiento": "SM Express de Aguascalientes S.A. de C.V.",
-        "Representante legal o promovente": "SM Express de Aguascalientes S.A. de C.V.",
-        "Dirección": "C. Lirio #2020, Com. La Florida",
-        "Municipio": "Jesús María",
-        "Latitud": "21.98535396",
-        "Longitud": "-102.3051267",
-        "Vencimiento ": "20/01/2024"
-    },
-    {
-        "ID": "100",
-        "Material": "Cartón",
-        "Material específico": "Cartón",
-        "Nombre del proyecto o establecimiento": "Grupo Remex recicladores mexicanos",
-        "Representante legal o promovente": "José Luis Hernández Vázquez",
-        "Dirección": "C. Laurel #199, Col. La Casita",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "21.96854764",
-        "Longitud": "-102.2686968",
-        "Vencimiento ": "05/02/2024"
-    },
-    {
-        "ID": "101",
-        "Material": "Chatarra ferrosa",
-        "Material específico": "Troquel, Placa de rpimera, Rebaba, Retorno",
-        "Nombre del proyecto o establecimiento": "Kitagawa S.A. de C.V.",
-        "Representante legal o promovente": "Kitagawa S.A. de C.V.",
-        "Dirección": "Circuito progreso #102, Parque Industrial Logística Automotriz",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.72535263",
-        "Longitud": "-102.3206015",
-        "Vencimiento ": "26/02/2024"
+        "Vencimiento ": "18/01/2024 "
     },
     {
         "ID": "102",
-        "Material": "Plástico, Madera, Chatarra ferrosa, Chatarra no ferrosa, Cartón, Textiles",
+        "Material": "Chatarra ferrosa, Papel, Cartón, Chatarra no ferrosa, Plástico, Papel",
         "Material específico": "Plástico, Madera, Chatarra, Aluminio, Cobre, Fierro, Acero, Cartón, Super sacos, Alfombra, Borla",
         "Nombre del proyecto o establecimiento": "Permar Reciclados S.A. de C.V.",
-        "Representante legal o promovente": "Permar Reciclados S.A. de C.V.",
         "Dirección": "Carr. Aguascalientes-Loreto Km. 2.5, Ejido La Guayana",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.96581001",
         "Longitud": "-102.2707332",
-        "Vencimiento ": "01/03/2024"
-    },
-    {
-        "ID": "103",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Plástico, Cartón, Madera, Cables, Chatarra electrónica, Papel, Textiles",
-        "Material específico": "Chatarra ferrosa, PEBD, PS, Cartón, PEAD, PET, PVC, Aluminio, Madera, EPS, Chatarra no ferrosa, CCC, AAC, Chatarra electrónica, Rafia, Manta, Papel",
-        "Nombre del proyecto o establecimiento": "Renovadora del Centro Recon S.A. de C.V.",
-        "Representante legal o promovente": "Renovadora del Centro Recon S.A. de C.V.",
-        "Dirección": "C. Luis Echeverría #108, Col. Los Arellano",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.80316698",
-        "Longitud": "-102.2761943",
-        "Vencimiento ": "04/03/2024"
+        "Vencimiento ": "01/03/2024 "
     },
     {
         "ID": "104",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica, Cartón, Madera, Plástico, Textiles, Papel",
+        "Material": "Cartón, Chatarra no ferrosa, Plástico, Papel, Cartón, Madera",
         "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Madera, Plástico, Textiles, Papel, Chatarra electrónica",
         "Nombre del proyecto o establecimiento": "Recicladora ambiental de Aguascalientes S.A. de C.V.",
-        "Representante legal o promovente": "Diego Valdez Pedroza",
         "Dirección": "Carr. San Luis Potosí Km. 65, Col. Villa las Palmas",
         "Municipio": "El Llano",
         "Latitud": "21.8290326",
         "Longitud": "-102.1302028",
-        "Vencimiento ": "11/03/2024"
-    },
-    {
-        "ID": "105",
-        "Material": "Chatarra ferrosa, Papel, Cartón, Chatarra no ferrosa",
-        "Material específico": "Chatarra ferrosa, Papel, Cartón, Chatarra no ferrosa",
-        "Nombre del proyecto o establecimiento": "Ecomextra S.A. de C.V.",
-        "Representante legal o promovente": "Ecomextra S.A. de C.V.",
-        "Dirección": "Blvd. Adolfo Ruiz Cortines Km. 3.5, Col. La Soledad",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.87480137",
-        "Longitud": "-102.335845",
-        "Vencimiento ": "11/03/2024"
+        "Vencimiento ": "11/03/2024 "
     },
     {
         "ID": "106",
         "Material": "Plástico, Papel, Cartón, Madera, Chatarra ferrosa, Chatarra no ferrosa",
         "Material específico": "PEAD, PEBD, LDPE, PP, PS, AS, ABS, PVC, PA, Papel, Cartón, Madera, Chatarra ferrosa, Chatarra no ferrosa",
         "Nombre del proyecto o establecimiento": "Eduardo Gutiérrez Ramírez",
-        "Representante legal o promovente": "Eduardo Gutiérrez Ramírez",
         "Dirección": "C. Laurel #214, salida a loreto, Col. La casita, Puertecito de la Virgen",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.96915224",
         "Longitud": "-102.2697789",
-        "Vencimiento ": "01/04/2024"
+        "Vencimiento ": "01/04/2024 "
     },
     {
         "ID": "107",
         "Material": "Cartón, Papel, Plástico, Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica, Otros",
         "Material específico": "Cartón, Papel, PET, Plástico diro, PE, Chatarra ferrosa, Cobre, Bronce, Níquel, Aluminio, Chatarra electrónica, Tetrapack, Vidrio",
         "Nombre del proyecto o establecimiento": "Juan Ramón Landeros Ramírez",
-        "Representante legal o promovente": "Juan Ramón Landeros Ramírez",
         "Dirección": "Av. Poliducto #504, Mujeres ilustres",
         "Municipio": "Aguascalientes",
         "Latitud": "21.84973772",
         "Longitud": "-102.2533344",
-        "Vencimiento ": "04/04/2024"
+        "Vencimiento ": "04/04/2024 "
     },
     {
         "ID": "108",
-        "Material": "Cartón, Otros, Madera, Plástico",
+        "Material": "Papel, Plástico, Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica, Otros, Cartón",
         "Material específico": "Cartón, Vidrio, Tarimas, PET, HDPE, PP, LDPE",
         "Nombre del proyecto o establecimiento": "Tecnología Ambiental Reciclean Max S.A. de C.V.",
-        "Representante legal o promovente": "Tecnología Ambiental Reciclean Max S.A. de C.V.",
         "Dirección": "Av. Independencia #206 Manzana 74, Fracc. Paseos de Aguascalientes",
         "Municipio": "Jesús María",
         "Latitud": "21.96517713",
         "Longitud": "-102.2935653",
-        "Vencimiento ": "22/04/2024"
-    },
-    {
-        "ID": "109",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Papel",
-        "Material específico": "Acero, Fierro, Aluminio, Acero, Tungsteno, Cobre, Bronce, Cartón, Papel",
-        "Nombre del proyecto o establecimiento": "Roi Briquetting S.A. de C.V.",
-        "Representante legal o promovente": "Roi Briquetting S.A. de C.V.",
-        "Dirección": "Carr. Maravillas Paso Blanco #111, Col. Tepetates",
-        "Municipio": "Jesús María",
-        "Latitud": "21.97438841",
-        "Longitud": "-102.3163802",
-        "Vencimiento ": "10/05/2024"
-    },
-    {
-        "ID": "110",
-        "Material": "Plástico, Chatarra ferrosa, Madera, Chatarra no ferrosa, Cables, Papel, Cartón, Textiles, Otros",
-        "Material específico": "ABS, Acero inoxidable, POM, PMMA, Aglomerado, Aluminio, Aserrín, Bujes, AAC, ACSR, TAFP, Cable de cobre, EKCy EKI, Cable polilam, Cartón, Caucho, Chatarra, Acero, Aluminio, Bronce, Fierro, Cobre estaño, Placa negra, EBA, Emplaye, HDPE, Lámina galvanizada, Llantas, Madera, PES, PA, Papel, Papel archivo, Papel bond, Papel cera, Papel Kraft, Papel periódico, Papel toalla, PC, Vidrio, PET, Plástico, Plástico blanco, Policartón, PEAD, PEBD, PEMD, PVC, Bronce, Cobre, Tarimas, TEO, Triplay, PES, Zinc",
-        "Nombre del proyecto o establecimiento": "Protoss Metales S.A. de C.V.",
-        "Representante legal o promovente": "Protoss Metales S.A. de C.V.",
-        "Dirección": "Blvd. Chichimeco #2009, Com. De los Horcones",
-        "Municipio": "Jesús María",
-        "Latitud": "21.99223716",
-        "Longitud": "-102.3329718",
-        "Vencimiento ": "20/05/2024"
+        "Vencimiento ": "22/04/2024 "
     },
     {
         "ID": "111",
-        "Material": "Cartón, Papel, Madera, Plástico, Chatarra electrónica, Chatarra ferrosa, Chatarra no ferrosa, Otros, Textiles, Orgánicos, Escombros de construcción",
+        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Chatarra no ferrosa",
         "Material específico": "Cartón, Papel, Madera, Plásticos, Chatarra ferrosa, Chatarra no ferrosa, Vidrio, Textiles, Chatarra electrónica, Lácteos y derivados, Residuos orgánicos, Escombro, Llanta",
         "Nombre del proyecto o establecimiento": "Desperdicios industriales de Cuernavaca S.A. de C.V.",
-        "Representante legal o promovente": "Desperdicios industriales de Cuernavaca S.A. de C.V.",
         "Dirección": "C. Juan Carlos #114, Parque industrial siglo XXI",
         "Municipio": "Aguascalientes",
         "Latitud": "21.80176889",
         "Longitud": "-102.2878323",
-        "Vencimiento ": "06/06/2024"
-    },
-    {
-        "ID": "112",
-        "Material": "Chatarra no ferrosa, Fundición, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
-        "Material específico": "Aluminio, Arena sílica",
-        "Nombre del proyecto o establecimiento": "Peri Multimtales S.A. de C.V.",
-        "Representante legal o promovente": "Peri Multimtales S.A. de C.V.",
-        "Dirección": "C. José Barba Alonso #101, Col. Ciudad Industrial ",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.83226373",
-        "Longitud": "-102.2845597",
-        "Vencimiento ": "10/06/2024"
+        "Vencimiento ": "06/06/2024 "
     },
     {
         "ID": "113",
         "Material": "Chatarra no ferrosa, Plástico, Chatarra ferrosa",
         "Material específico": "Aluminio, Cobre, PET, Plástico duro, Chatarra",
         "Nombre del proyecto o establecimiento": "Juan Alexander Gómez Rivera",
-        "Representante legal o promovente": "Juan Alexander Gómez Rivera",
         "Dirección": "Av. Tecnológico #414-A, Ex Ejido Salto de Ojocaliente",
         "Municipio": "Aguascalientes",
         "Latitud": "21.86927436",
         "Longitud": "-102.248038",
-        "Vencimiento ": "11/06/2024"
+        "Vencimiento ": "11/06/2024 "
     },
     {
         "ID": "114",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Madera, Plástico, Textiles, Papel, Escombros de construcción, Chatarra electrónica",
         "Material específico": "Chatarra ferrosa, Chatarra no ferrosa, Cartón, Madera, Plástico, Textiles, Papel, Escombros de contrucción, Chatarra electrónica",
         "Nombre del proyecto o establecimiento": "Recicladora Valpe",
-        "Representante legal o promovente": "Diego Valdez Pedroza",
         "Dirección": "Carr. San Luis Potosí #1456, Fracc. Villas de la Palma 2da sección",
         "Municipio": "Aguascalientes",
         "Latitud": "21.86335451",
         "Longitud": "-102.232558",
-        "Vencimiento ": "23/06/2024"
+        "Vencimiento ": "23/06/2024 "
     },
     {
         "ID": "115",
         "Material": "Plástico, Chatarra ferrosa, Cartón, Chatarra no ferrosa",
         "Material específico": "PET, Chatarra ferrosa, Cartón, Cobre, Bronce, Aluminio",
         "Nombre del proyecto o establecimiento": "Martín Avendaño de la Rosa",
-        "Representante legal o promovente": "Martín Avendaño de la Rosa",
         "Dirección": "C. El mastranzo S/N, Col. Palo Alto",
         "Municipio": "El Llano",
         "Latitud": "21.93635878",
         "Longitud": "-101.9755391",
-        "Vencimiento ": "29/06/2024"
-    },
-    {
-        "ID": "119",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa",
-        "Material específico": "Aluminio, Cobre, Bronce, Níquel, Acero, Antimonio, Magnesio, Latón",
-        "Nombre del proyecto o establecimiento": "Edvesa S.A. de C.V.",
-        "Representante legal o promovente": "Juan Carlos Pérez Torres",
-        "Dirección": "Carr. Panamericana  Km. 542, Bodega #5, Parque Industrial del Valle de Aguascalientes",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "21.96946354",
-        "Longitud": "-102.2888618",
-        "Vencimiento ": "05/07/2024"
-    },
-    {
-        "ID": "116",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa",
-        "Material específico": "Aluminio, Chatarra ferrosa, Cobre, Bronce, Acero",
-        "Nombre del proyecto o establecimiento": "Thincor Group S.A. de C.V.",
-        "Representante legal o promovente": "Thincor Group S.A. de C.V.",
-        "Dirección": "Carr. Estatal 45 al Maguey # 800, Loc. J. Gómez Portugal",
-        "Municipio": "Jesús María",
-        "Latitud": "22.02254931",
-        "Longitud": "-102.2916143",
-        "Vencimiento ": "08/07/2024"
-    },
-    {
-        "ID": "117",
-        "Material": "Orgánicos, Chatarra ferrosa, Chatarra electrónica, Madera, Chatarra no ferrosa, Cartón, Plástico, Textiles, Escombros de construcción, Papel, Fundición, Cables, Otros",
-        "Material específico": "Organicos de comedor, Lodos, Aceo, Fierro, Madera, Aluminio, Cobre, Acero inoxidale, Bandas, Bronce, Papel, Cartón, Bolsa de colector, Plástico, Tela, Filtro, Vidrio, Cable, Hule, Mangueras, Basura urbana, Bolsa de carbón, Llantas, Material eléctrico, Tarjetas electrónicas, Tabique refractario, Cemento contaminado, Concreto, PET, PE, HDPE, LDPE, PP, PS, PC, PU, Papel filtro, Cartón plastificado, Star disk, Papelería de oficina, Papel encerado, Papel toalla, Papel basura, Papel periódico, Papel con adhesivo etiquetas, Textil, Hule, EPDM, Aditivo para concreto, Fibra para concreto, Tóner, Cerámica, Polvo de fundición, Escoria, Arena, Polvo metálico, Polvo, Yeso",
-        "Nombre del proyecto o establecimiento": "Cementos y concretos nacionaes S.A. de C.V.",
-        "Representante legal o promovente": "Benito Rodríguez Fayad",
-        "Dirección": "C. Carboneras-Arroyo Hondo  Km. 4, Arroyo Hondo",
-        "Municipio": "Tepezalá",
-        "Latitud": "22.18497656",
-        "Longitud": "-102.2051734",
-        "Vencimiento ": "11/07/2024"
+        "Vencimiento ": "29/06/2024 "
     },
     {
         "ID": "118",
-        "Material": "Cartón, Papel, Plástico, Madera, Chatarra ferrosa, Chatarra ferrosa, Chatarra no ferrosa",
+        "Material": "Chatarra no ferrosa, Chatarra no ferrosa, Cartón, Papel, Plástico",
         "Material específico": "Cartón, Papel, PET, Plástico duro, Chatarra ferrosa, Madera, PE",
         "Nombre del proyecto o establecimiento": "Ecologistic supplier S.A. de C.V.",
-        "Representante legal o promovente": "Luis Fernando Regalado Delgado",
         "Dirección": "C. Ladrilleras #101, Lotes de Arellano",
         "Municipio": "Aguascalientes",
         "Latitud": "21.79690362",
         "Longitud": "-102.2682002",
-        "Vencimiento ": "13/07/2024"
-    },
-    {
-        "ID": "25",
-        "Material": "Chatarra no ferrosa",
-        "Material específico": "Aluminio",
-        "Nombre del proyecto o establecimiento": "Peri Multimetales S.A. de C.V.",
-        "Representante legal o promovente": "José Gerardo Cabra Lagunés",
-        "Dirección": "C. Anselmo López Arambula #209, Col. Ciudad industrial ",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.83442291",
-        "Longitud": "-102.2831522",
-        "Vencimiento ": "15/07/2024"
+        "Vencimiento ": "13/07/2024 "
     },
     {
         "ID": "120",
         "Material": "Cartón, Papel, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
         "Material específico": "Cartón, Papel, PET, Fierro, Lámina, Aluminio, Cobre, Bronce, Latón",
         "Nombre del proyecto o establecimiento": "Recicladora Santibáñez, Centro de acopio de residuos sólidos de manejo especial para su comercialización",
-        "Representante legal o promovente": "Jorge Carlos Santibáñez Ortega",
         "Dirección": "C. Mayor Pablo García #228-B, Col. San Pedro (Torres de San Francisco)",
         "Municipio": "Aguascalientes",
         "Latitud": "21.8415455",
         "Longitud": "-102.297293",
-        "Vencimiento ": "26/07/2024"
+        "Vencimiento ": "26/07/2024 "
     },
     {
         "ID": "122",
         "Material": "Plástico",
         "Material específico": "PEBD, PEAD, PE",
         "Nombre del proyecto o establecimiento": "Mario Alberto Macías Arenas",
-        "Representante legal o promovente": "Mario Alberto Macías Arenas",
         "Dirección": "Carr. Panamericana Km. 13.5, Col. Jesús Gómez Portugal",
         "Municipio": "Jesús María",
         "Latitud": "21.99336059",
         "Longitud": "-102.2886651",
-        "Vencimiento ": "01/08/2024"
-    },
-    {
-        "ID": "121",
-        "Material": "Chatarra electrónica",
-        "Material específico": "Chatarra electrónica",
-        "Nombre del proyecto o establecimiento": "Technoscrap S.A. de C.V.",
-        "Representante legal o promovente": "Technoscrap S.A. de C.V.",
-        "Dirección": "Carr. A los Arquitos # 805, parcela 22Z01P1/1, Ejido Los Arquitos",
-        "Municipio": "Jesús María",
-        "Latitud": "21.9360958",
-        "Longitud": "-102.3790331",
-        "Vencimiento ": "16/08/2024"
-    },
-    {
-        "ID": "123",
-        "Material": "Plástico",
-        "Material específico": "EPS",
-        "Nombre del proyecto o establecimiento": "Ferretería, Materiales y Poliestireno Santa Ana S.A. de C.V.",
-        "Representante legal o promovente": "Ferretería, Materiales y Poliestireno Santa Ana S.A. de C.V.",
-        "Dirección": "Av. Maquiladores #139, Parque Industrial Chichimeco",
-        "Municipio": "Jesús María",
-        "Latitud": "21.99398112",
-        "Longitud": "-102.3397629",
-        "Vencimiento ": "24/08/2024"
+        "Vencimiento ": "01/08/2024 "
     },
     {
         "ID": "124",
         "Material": "Chatarra no ferrosa, Cartón, Plástico, Papel, Chatarra ferrosa",
         "Material específico": "Cobre, Cartón, PET, Aluminio, Bronce, Papel, Chatarra ferrosa",
         "Nombre del proyecto o establecimiento": "Jonatan Salvador Chaires Miranda",
-        "Representante legal o promovente": "Jonatan Salvador Chaires Miranda",
         "Dirección": "C. Salom Sabre #101, Col. San Pedro",
         "Municipio": "Aguascalientes",
         "Latitud": "21.88277261",
         "Longitud": "-102.2465797",
-        "Vencimiento ": "27/08/2024"
-    },
-    {
-        "ID": "125",
-        "Material": "Fundición",
-        "Material específico": "Arena quemada, Arena con Aluminio",
-        "Nombre del proyecto o establecimiento": "Asahi Yukizai México S.A de C.V",
-        "Representante legal o promovente": "Kenta Akamine",
-        "Dirección": "Carr. Panamericana   Sur Km. 114+354, Parque Industrial FINSA",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.74453023",
-        "Longitud": "-102.2842418",
-        "Vencimiento ": "29/08/2024"
-    },
-    {
-        "ID": "126",
-        "Material": "Plástico",
-        "Material específico": "PES",
-        "Nombre del proyecto o establecimiento": "Poliestireno del Centro S.A. de C.V.",
-        "Representante legal o promovente": "Ricardo Enrique Matute Salas",
-        "Dirección": "Av. Independencia #99 Manzana 5, Col. Paso Blanco",
-        "Municipio": "Jesús María",
-        "Latitud": "21.96334013",
-        "Longitud": "-102.2943352",
-        "Vencimiento ": "30/08/2024"
+        "Vencimiento ": "27/08/2024 "
     },
     {
         "ID": "127",
         "Material": "Chatarra ferrosa, Plástico, Papel, Cartón, Chatarra electrónica, Chatarra no ferrosa",
         "Material específico": "Chatarra ferrosa, Aluminio, Cobre, Bronce, Chatarra electrónica, Papel, Cartón, Periódico, Plástico",
         "Nombre del proyecto o establecimiento": "Juan Carlos Hernández Vázquez",
-        "Representante legal o promovente": "Juan Carlos Hernández Vázquez",
         "Dirección": "Av. Aguascalientes Poniente #302, Col. San Marcos",
         "Municipio": "Aguascalientes",
         "Latitud": "21.87807343",
         "Longitud": "-102.318454",
-        "Vencimiento ": "03/09/2024"
+        "Vencimiento ": "03/09/2024 "
     },
     {
         "ID": "128",
         "Material": "Papel, Cartón, Otros, Plástico, Madera, Chatarra ferrosa, Chatarra no ferrosa",
         "Material específico": "Papel, Cartón, Plástico, Madera, Chatarra ferrosa, Chatarra no ferrosa, Llantas, Vidrio",
         "Nombre del proyecto o establecimiento": "Chatarrafierros San Pedro",
-        "Representante legal o promovente": "Iradier Manuel Ornasel Alba",
         "Dirección": "Av. Mahatma Gandhi #703, Col. San Pedro",
         "Municipio": "Aguascalientes",
         "Latitud": "21.84130376",
         "Longitud": "-102.2937121",
-        "Vencimiento ": "05/09/2024"
+        "Vencimiento ": "05/09/2024 "
     },
     {
         "ID": "129",
         "Material": "Chatarra no ferrosa, Plástico, Chatarra ferrosa, Papel",
         "Material específico": "Aluminio, Cobre, PET, Plástico duro, Chatarra ferrosa, Bronce, Papel, Polietileno",
         "Nombre del proyecto o establecimiento": "Recicladora San Marcos",
-        "Representante legal o promovente": "César Torres Flores",
         "Dirección": "C. Tiziano #213-B, Fracc. San Marcos",
         "Municipio": "Aguascalientes",
         "Latitud": "21.88017552",
         "Longitud": "-102.3189273",
-        "Vencimiento ": "13/09/2024"
-    },
-    {
-        "ID": "130",
-        "Material": "Chatarra ferrosa, Chatarra ferrosa, Chatarra no ferrosa",
-        "Material específico": "Fierro gris",
-        "Nombre del proyecto o establecimiento": "Fundidora DDF México S.A.P.I. de C.V.",
-        "Representante legal o promovente": "Fundidora DDF México, S.A.P.I. de C.V.",
-        "Dirección": "Carr. Panamericana Sur  Km. 114+354, Int. 18, Col. Cotorina de Ejido, Parque Industrial FINSA.",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.75274301",
-        "Longitud": "-102.2813622",
-        "Vencimiento ": "13/09/2024"
-    },
-    {
-        "ID": "131",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa",
-        "Material específico": "Chatarra ferrosa, Aluminio",
-        "Nombre del proyecto o establecimiento": "Ferrous processing and trading de México S. de R.L. de C.V.",
-        "Representante legal o promovente": "Donald Kenneth Harris",
-        "Dirección": "Carr. Estatal 85 Km. 4.7, Com. Chicalote",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "22.01063455",
-        "Longitud": "-102.2461964",
-        "Vencimiento ": "14/09/2024"
+        "Vencimiento ": "13/09/2024 "
     },
     {
         "ID": "132",
         "Material": "Plástico, Cartón, Chatarra ferrosa, Chatarra no ferrosa, Madera",
         "Material específico": "PE, Plástico, Hule, POM, PEBD, PEAD, PVC, ABS, PS, Policartón, Zinc, Chatarra ferrosa, Cobre, Níquel, Estño, Latón, Aleaciones no magnéticas, Bujes, Aluminio, Nylon, Llantas, Madera, Cartón, PET",
         "Nombre del proyecto o establecimiento": "De todo en reciclaje ambiental",
-        "Representante legal o promovente": "Omar Ramírez Ramírez",
         "Dirección": "C. Salvador Allende #126, Col. Francisco Villa. Norias de Paso Hondo",
         "Municipio": "Aguascalientes",
         "Latitud": "21.8569816",
         "Longitud": "-102.2079773",
-        "Vencimiento ": "21/09/2024"
-    },
-    {
-        "ID": "134",
-        "Material": "Plástico",
-        "Material específico": "PE, PP",
-        "Nombre del proyecto o establecimiento": "Fincsa División Plásticos S.A. de C.V.",
-        "Representante legal o promovente": "Fincsa División Plásticos, S.A. de C.V.",
-        "Dirección": "Prolongación Av. Juárez Sur # 801, Int. 2, Col. La Trinidad",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "22.06794444",
-        "Longitud": "-102.2778592",
-        "Vencimiento ": "26/09/2024"
-    },
-    {
-        "ID": "133",
-        "Material": "Plástico, Chatarra ferrosa, Cartón, Madera",
-        "Material específico": "Plástico, Chatarra ferrosa, Cartón, Madera",
-        "Nombre del proyecto o establecimiento": "Multiservicios Ingeniería Industriales S.A. de C.V.",
-        "Representante legal o promovente": "Multiservicios Ingeniería Industriales, S.A. de C.V.",
-        "Dirección": "Carr. Encarnación de Díaz #21, Loc. El Refugio de Peñuelas",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.71425666",
-        "Longitud": "-102.2762706",
-        "Vencimiento ": "30/09/2024"
-    },
-    {
-        "ID": "135",
-        "Material": "Chatarra no ferrosa, Chatarra ferrosa, Madera",
-        "Material específico": "Aluminio, Acero, Cobre, Madera, Fierro",
-        "Nombre del proyecto o establecimiento": "Global Cast Alloys S.A. de C.V.",
-        "Representante legal o promovente": "Mario Alberto Romo Romo",
-        "Dirección": "C. Pabellón de Arteaga S/N, Parque Industrial del Valle de Aguascalientes",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "21.97686701",
-        "Longitud": "-102.2857304",
-        "Vencimiento ": "05/10/2024"
-    },
-    {
-        "ID": "147",
-        "Material": "Chatarra no ferrosa",
-        "Material específico": "Aluminio",
-        "Nombre del proyecto o establecimiento": "Newcond Casting S. de R.L. de C.V.",
-        "Representante legal o promovente": "Newcond Casting S. de R.L. de C.V.",
-        "Dirección": "C. Jesús Rivera Franco #403, Col. Ciudad industrial ",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.84147137",
-        "Longitud": "-102.2850916",
-        "Vencimiento ": "20/10/2024"
+        "Vencimiento ": "21/09/2024 "
     },
     {
         "ID": "144",
         "Material": "Chatarra no ferrosa, Plástico, Chatarra ferrosa, Cartón, Papel, Otros, Chatarra electrónica",
         "Material específico": "Aluminio, Cobre, PET, Plástico duro, Antimonio, Cartón, Vidrio, Chatarra electrónica, Chatarra ferrosa",
         "Nombre del proyecto o establecimiento": "Luis Alberto Calvillo Navarro",
-        "Representante legal o promovente": "Luis Alberto Calvillo Navarro",
         "Dirección": "C. Hacienda José María Morelos #101, Fracc. Haciendas de Aguascalientes",
         "Municipio": "Aguascalientes",
         "Latitud": "21.89350073",
         "Longitud": "-102.2457352",
-        "Vencimiento ": "10/11/2024"
+        "Vencimiento ": "10/11/2024 "
     },
     {
         "ID": "141",
         "Material": "Chatarra no ferrosa, Chatarra ferrosa, Cartón, Plástico",
         "Material específico": "Aluminio, PET, Cartón, Plástico, Tambos, Chatarra ferrosa",
         "Nombre del proyecto o establecimiento": "Raúl Pérez Macías",
-        "Representante legal o promovente": "Raúl Pérez Macías",
         "Dirección": "Carr. Aguascalients/Luis Moya S/N, S/C",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "22.06788143",
         "Longitud": "-102.2789548",
-        "Vencimiento ": "11/11/2024"
-    },
-    {
-        "ID": "136",
-        "Material": "Madera",
-        "Material específico": "Tarimas",
-        "Nombre del proyecto o establecimiento": "Comercializadora y Distribuidora TOROSSI S.A. de C.V.",
-        "Representante legal o promovente": "Comercializadora y Distribuidora TOROSSI, S.A. de C.V.",
-        "Dirección": "Calle 1 # 40, Bodega 2, Col. Medio Kilo",
-        "Municipio": "San Francisco de los Romos",
-        "Latitud": "21.9839822",
-        "Longitud": "-102.2691371",
-        "Vencimiento ": "15/11/2024"
+        "Vencimiento ": "11/11/2024 "
     },
     {
         "ID": "137",
         "Material": "Plástico, Madera, Cartón, Chatarra ferrosa",
         "Material específico": "Plástico duro, Plástico blando, Madera, Cartón, Chatarra ferrosa",
         "Nombre del proyecto o establecimiento": "Francisco Javier Álvarez Parada",
-        "Representante legal o promovente": "Francisco Javier Álvarez Parada",
         "Dirección": "C. Baja California #102, Com. Tanque de los Jiménez",
         "Municipio": "Aguascalientes",
         "Latitud": "21.70740602",
         "Longitud": "-102.3730438",
-        "Vencimiento ": "25/11/2024"
-    },
-    {
-        "ID": "138",
-        "Material": "Chatarra no ferrosa, Chatarra ferrosa",
-        "Material específico": "Aluminio, Chatarra ferrosa",
-        "Nombre del proyecto o establecimiento": "Extruciones del Centro S.A. de C.V.",
-        "Representante legal o promovente": "Extruciones del Centro, S.A. de C.V.",
-        "Dirección": "Carr. Arellano/Calvillo Km. 4, Rancho El Refugio",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.79861139",
-        "Longitud": "-102.2491665",
-        "Vencimiento ": "14/12/2024"
+        "Vencimiento ": "25/11/2024 "
     },
     {
         "ID": "146",
-        "Material": "Plástico, Madera, Cartón, Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica",
+        "Material": "Plástico, Cartón, Madera, Papel",
         "Material específico": "Lámina galvanil, Fierro, Cobre, Bronce, Aluminio, Acero inoxidable, Plástico, Cartón, Madera",
         "Nombre del proyecto o establecimiento": "Recicla S.A. de C.V.",
-        "Representante legal o promovente": "Francisco Navarrete Gazca",
         "Dirección": "C. Tren Bala #119, Ejido Los Arellanos",
         "Municipio": "Aguascalientes",
         "Latitud": "21.79963777",
         "Longitud": "-102.2757314",
-        "Vencimiento ": "14/12/2024"
+        "Vencimiento ": "14/12/2024 "
     },
     {
         "ID": "139",
-        "Material": "Plástico",
+        "Material": "Cartón, Madera, Papel, Textiles",
         "Material específico": "PE, PP",
         "Nombre del proyecto o establecimiento": "Recicladora de Plásticos",
-        "Representante legal o promovente": "Héctor marquez Romo",
         "Dirección": "Carr. Chicalote-Macario J. Gomez Km. 0.750 Chicalote, Ejido Loretito",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.96701713",
         "Longitud": "-102.2337234",
-        "Vencimiento ": "15/12/2024"
+        "Vencimiento ": "15/12/2024 "
     },
     {
         "ID": "145",
-        "Material": "Plástico",
+        "Material": "Madera, Papel, Textiles, Chatarra no ferrosa",
         "Material específico": "PEBD, PEAD",
         "Nombre del proyecto o establecimiento": "Plasticando S.A. de C.V.",
-        "Representante legal o promovente": "Martha Alicia Colín Fénix",
         "Dirección": "Carr. Federal #45 Norte, Tramo Ags-Sa Francisco de los Romos Km. 1.9",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "22.06292608",
         "Longitud": "-102.2780346",
-        "Vencimiento ": "19/12/2024"
+        "Vencimiento ": "19/12/2024 "
     },
     {
         "ID": "140",
-        "Material": "Madera",
+        "Material": "Papel, Textiles, Chatarra no ferrosa, Chatarra ferrosa",
         "Material específico": "Madera",
         "Nombre del proyecto o establecimiento": "César Eduardo Guevara Chávez",
-        "Representante legal o promovente": "César Eduardo Guevara Chávez",
         "Dirección": "Av. Aguacalientes #924-D, Col. Trojes del Cóbano",
         "Municipio": "Aguascalientes",
         "Latitud": "21.86154703",
         "Longitud": "-102.3169738",
-        "Vencimiento ": "21/12/2024"
-    },
-    {
-        "ID": "142",
-        "Material": "Chatarra ferrosa, Plástico, Cartón, Madera, Papel, Textiles",
-        "Material específico": "Cartón, Madera, Papel, Chatarra ferrosa, Plástico, Textiles",
-        "Nombre del proyecto o establecimiento": "Cimetal S.A. de C.V.",
-        "Representante legal o promovente": "Ricardo Lira González",
-        "Dirección": "AV. Guadalupe #601-A, Loc. Las maravillas",
-        "Municipio": "Jesús María",
-        "Latitud": "21.9525834",
-        "Longitud": "-102.3276929",
-        "Vencimiento ": "05/01/2025"
+        "Vencimiento ": "21/12/2024 "
     },
     {
         "ID": "155",
         "Material": "Chatarra no ferrosa, Chatarra ferrosa, Plástico, Cartón",
         "Material específico": "Cobre, Bronce, Aluminio, Chatarra ferrosa, Plástico, Cartón",
         "Nombre del proyecto o establecimiento": "Diego García Alatorre",
-        "Representante legal o promovente": "Diego García Alatorre",
         "Dirección": "C. Urbanismo #709, Fracc. Solidaridad I",
         "Municipio": "Aguascalientes",
         "Latitud": "21.87161667",
         "Longitud": "-102.2455946",
-        "Vencimiento ": "09/01/2025"
+        "Vencimiento ": "09/01/2025 "
     },
     {
         "ID": "150",
         "Material": "cartón, Papel, Plástico, Chatarra ferrosa",
         "Material específico": "Cartón, Papel, PET, Metales",
         "Nombre del proyecto o establecimiento": "Juan Manuel Torres Camino",
-        "Representante legal o promovente": "Juan Manuel Torres Camino",
         "Dirección": "Av. Ojocaliente I #1030, Fracc. Ojocaliente",
         "Municipio": "Aguascalientes",
         "Latitud": "21.88042768",
         "Longitud": "-102.2521086",
-        "Vencimiento ": "10/01/2025"
+        "Vencimiento ": "10/01/2025 "
     },
     {
         "ID": "35",
-        "Material": "Fundición",
+        "Material": "Papel, Plástico, Chatarra ferrosa, Fundición",
         "Material específico": "Arena sílica quemada",
         "Nombre del proyecto o establecimiento": "Majose Recicladora S.A. de C.V.",
-        "Representante legal o promovente": "Ramón Torres Armenta",
         "Dirección": "Av. Ferrocarril #1102, Ejido Los Arellanos",
         "Municipio": "Aguascalientes",
         "Latitud": "21.87124352",
         "Longitud": "-102.277981",
-        "Vencimiento ": "12/01/2025"
+        "Vencimiento ": "12/01/2025 "
     },
     {
         "ID": "143",
-        "Material": "Plástico",
+        "Material": "Plástico, Chatarra ferrosa, Fundición, Plástico",
         "Material específico": "Llantas",
         "Nombre del proyecto o establecimiento": "Recicladora Vaam Tire S.A. de C.V.",
-        "Representante legal o promovente": "Recicladora Vaam Tire, S.A. de C.V.",
         "Dirección": "Carr. Panamericana Sur # 2301, S/C",
         "Municipio": "Aguascalientes",
         "Latitud": "21.83041605",
         "Longitud": "-102.2885781",
-        "Vencimiento ": "13/01/2025"
-    },
-    {
-        "ID": "33",
-        "Material": "Plástico, Cartón, Textiles, Otros, Chatarra ferrosa, Chatarra no ferrosa, Chatarra electrónica, Papel, Madera, Escombros de construcción",
-        "Material específico": "PET, PP, PVC, PA, ABS, PC, PS, HDPE, PAD, POM, Policartón, Rafia, Eslingas, Cartón, Papel, Caple, Vidrio, PES, Tela, Fepa, Madera, Cobre, Aluminio, Cobre estañado, Fierro, Bronce, Tablilla electrónica, Zapatos, Electrónicos, RSU, Paneles solares",
-        "Nombre del proyecto o establecimiento": "Riplast S.A. de C.V.",
-        "Representante legal o promovente": "Riplast S.A. de C.V.",
-        "Dirección": "C. Prolongación constitución #803-B, Col. El puertecito",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.8488567",
-        "Longitud": "-102.3421888",
-        "Vencimiento ": "02/02/2025"
+        "Vencimiento ": "13/01/2025 "
     },
     {
         "ID": "34",
-        "Material": "Plástico, Cartón, Chatarra ferrosa, Chatarra no ferrosa",
+        "Material": "Fundición, Plástico, Plástico, Cartón",
         "Material específico": "Plástico, Cartón, Chatarra ferrosa, Cobre, Bronce, Alumino, Caucho",
         "Nombre del proyecto o establecimiento": "Recicladora de Caucho Ags D&G S.A. de C.V.",
-        "Representante legal o promovente": "David Gómez Hernández",
         "Dirección": "C. Francisco Javier Martínez #118, Col. La casita",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.96736162",
         "Longitud": "-102.2673608",
-        "Vencimiento ": "02/02/2025"
-    },
-    {
-        "ID": "27",
-        "Material": "Madera",
-        "Material específico": "Tarimas",
-        "Nombre del proyecto o establecimiento": "José Alejandro Alonso Flores",
-        "Representante legal o promovente": "José Alejandro Alonso Flores",
-        "Dirección": "C. La Providencia Km. 3.5, Tanque de los Jiménez",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.70857825",
-        "Longitud": "-102.3468996",
-        "Vencimiento ": "08/02/2025"
-    },
-    {
-        "ID": "148",
-        "Material": "Madera, Cartón",
-        "Material específico": "Madera, Aserrín, Cartón",
-        "Nombre del proyecto o establecimiento": "Compo México S.A. de C.V.",
-        "Representante legal o promovente": "Compo México S.A. de C.V.",
-        "Dirección": "C. José Antonio #122-D, Parque industrial siglo XXI",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.79982989",
-        "Longitud": "-102.2884972",
-        "Vencimiento ": "14/02/2025"
+        "Vencimiento ": "02/02/2025 "
     },
     {
         "ID": "149",
         "Material": "Cartón, Papel, Chatarra ferrosa, Chatarra no ferrosa, Plástico",
         "Material específico": "Cartón, Papel, Chatarra, PET, Aluminio, Plástico duro",
         "Nombre del proyecto o establecimiento": "Erika Vannesa Tapia Medina",
-        "Representante legal o promovente": "Erika Vannesa Tapia Medina",
         "Dirección": "Prolongación Tecuexe #220, Fracc. Lomas del chapulín",
         "Municipio": "Aguascalientes",
         "Latitud": "21.86080755",
         "Longitud": "-102.2453766",
-        "Vencimiento ": "27/02/2025"
-    },
-    {
-        "ID": "54",
-        "Material": "Plástico, Cartón, Madera",
-        "Material específico": "Plástico, Cartó, Madera",
-        "Nombre del proyecto o establecimiento": "ADD-PACK",
-        "Representante legal o promovente": "Rosa María Herrera Soltero",
-        "Dirección": "Prolongación Tepezalá #313, Fracc. El Plateado",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.90865827",
-        "Longitud": "-102.2962955",
-        "Vencimiento ": "28/02/2025"
+        "Vencimiento ": "27/02/2025 "
     },
     {
         "ID": "28",
         "Material": "Plástico, Cartón, Chatarra ferrosa, Chatarra no ferrosa, Madera",
         "Material específico": "PET, Plástico, Cartón, Plástico duro, Aluminio, Acero, Madera",
         "Nombre del proyecto o establecimiento": "Ken solution servicios y reciclados",
-        "Representante legal o promovente": "Juan Manuel Leandro Chávez",
         "Dirección": "Frutilandia #202, Fracc. Paseos de Aguascalientes",
         "Municipio": "Jesús María",
         "Latitud": "21.96771385",
         "Longitud": "-102.2913804",
-        "Vencimiento ": "15/03/2025"
+        "Vencimiento ": "15/03/2025 "
     },
     {
         "ID": "42",
         "Material": "Cartón, Madera, Chatarra ferrosa",
         "Material específico": "ABS-PC, PC, PA, Cartón, Madera, PET, HDPE, PVC, LDPE, PP, PS, Tetrapack, POM, SAN, PBT, PPE&PS, PSHI, PMMA, PPO, TPO, TPU, PA&AS, PPE, PAM, SPS, PC&PS",
         "Nombre del proyecto o establecimiento": "Adrián Gómez Peralta",
-        "Representante legal o promovente": "Adrián Gómez Peralta",
         "Dirección": "C. Municipio de Calvillo #116-E, Parque Industrial del Valle de Aguascalientes",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.96498118",
         "Longitud": "-102.2822558",
-        "Vencimiento ": "15/03/2025"
+        "Vencimiento ": "15/03/2025 "
     },
     {
         "ID": "47",
         "Material": "Plástico, Madera, Chatarra ferrosa, Chatarra no ferrosa, Papel, Cartón, Otros",
         "Material específico": "PP, PE, PEBD, PEMD, PEAD, PET, PVC, ABS, EPDM, PC, HDPE, PU, EBA, Plástico blanco, Madera, Tarimas, Aserrín, Fierro, Acero, Cobre, Bronce, Aluminio, Papel encerado, Papel craft, Cartón, Vidrio, ",
         "Nombre del proyecto o establecimiento": "Centro de acopio, reciclaje, reutilización, coprocesamiento y tratamiento de residuos de manejo especial Anahí Lendro",
-        "Representante legal o promovente": "Lourdes Anahí Lendro Chávez",
         "Dirección": "C. Laurel #139 Parcela #56 Z 1 P 1/2, Ejido la Guayana, Puertecito de la Virgen",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.96943735",
         "Longitud": "-102.2738963",
-        "Vencimiento ": "15/03/2025"
-    },
-    {
-        "ID": "36",
-        "Material": "Plástico",
-        "Material específico": "Plástico",
-        "Nombre del proyecto o establecimiento": "Plásticos Servicios de Apoyo a la Industria",
-        "Representante legal o promovente": "Eduardo Ernesto Gutiérrez Sánches",
-        "Dirección": "Carr. Jesús María-Valladolid Km. 3, Com. La Matutina",
-        "Municipio": "Jesús María",
-        "Latitud": "21.99349831",
-        "Longitud": "-102.3333832",
-        "Vencimiento ": "16/03/2025"
+        "Vencimiento ": "15/03/2025 "
     },
     {
         "ID": "37",
-        "Material": "Plástico, Cartón, Papel, Chatarra ferrosa, Chatarra no ferrosa, Madera",
+        "Material": "Madera, Plástico, Papel, Cartón, Plástico",
         "Material específico": "PET, PEAD, PVC, PEBD, PP, PS, ABS, PC, PA, POM, Cartón, Papel, Chatarra ferrosa, Chatarra no ferrosa, Madera",
         "Nombre del proyecto o establecimiento": "El molino",
-        "Representante legal o promovente": "Rafael Cuéllar Arellano",
         "Dirección": "C. Benjamín Mendez #106, Col. Unidad Ganadera",
         "Municipio": "Aguascalientes",
         "Latitud": "21.90511934",
         "Longitud": "-102.3104315",
-        "Vencimiento ": "17/03/2025"
-    },
-    {
-        "ID": "38",
-        "Material": "Plástico",
-        "Material específico": "Llantas",
-        "Nombre del proyecto o establecimiento": "Ecollanti S.A. de C.V.",
-        "Representante legal o promovente": "Ecollanti S.A. de C.V.",
-        "Dirección": "C. Julio Díaz Torres #106, int. 10-A, Col. Ciudad industrial ",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.84031436",
-        "Longitud": "-102.2795246",
-        "Vencimiento ": "17/03/2025"
+        "Vencimiento ": "17/03/2025 "
     },
     {
         "ID": "151",
         "Material": "Papel, Cartón, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
         "Material específico": "Papel, Crtón, PET, Fierro, Bronce, Cobre",
         "Nombre del proyecto o establecimiento": "Ma. Del Carmen Jaramillo Macías",
-        "Representante legal o promovente": "Ma. Del Carmen Jaramillo Macías",
         "Dirección": "Av. Convención de 1914 pte #1511, Col. Miravalle",
         "Municipio": "Aguascalientes",
         "Latitud": "21.88943102",
         "Longitud": "-102.3124282",
-        "Vencimiento ": "17/03/2025"
+        "Vencimiento ": "17/03/2025 "
     },
     {
         "ID": "51",
-        "Material": "Cartón, Papel, Plástico, Otros",
+        "Material": "Otros, Textiles, Chatarra ferrosa, Plástico, Cartón, Chatarra ferrosa",
         "Material específico": "Cartón, Papel, Plástico, Otros",
         "Nombre del proyecto o establecimiento": "Majose Recicladora S.A. de C.V. (Bodega 1)",
-        "Representante legal o promovente": "Ana Luisa Velázquez Feregrino",
         "Dirección": "C. Jesús María Romo #121, Col. Ciudad industrial ",
         "Municipio": "Aguascalientes",
         "Latitud": "21.83096181",
         "Longitud": "-102.2844393",
-        "Vencimiento ": "22/03/2025"
-    },
-    {
-        "ID": "153",
-        "Material": "Madera, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
-        "Material específico": "Madera, Plástico, Chatarra ferrosa, Acero, Aluminio",
-        "Nombre del proyecto o establecimiento": "Jorge Humberto Gaytan Palos",
-        "Representante legal o promovente": "Jorge Humberto Gaytan Palos",
-        "Dirección": "Av. Adolfo López Mateos #520, Col. Centro",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.87943538",
-        "Longitud": "-102.2875265",
-        "Vencimiento ": "31/03/2025"
+        "Vencimiento ": "22/03/2025 "
     },
     {
         "ID": "61",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Plástico, Chatarra electrónica, Otros, Textiles",
+        "Material": "Chatarra ferrosa, Plástico, Cartón, Chatarra ferrosa, Chatarra no ferrosa, Plástico",
         "Material específico": "Acero, Lodos, Chatarra ferrosa, Cobre, llantas, Aluminio, Chatarra electrónica, Residuos no valorizables, Plástico, Vidrio, Textiles",
         "Nombre del proyecto o establecimiento": "Majose Recicladora S.A. de C.V. (Bodega 4)",
-        "Representante legal o promovente": "Jerónimo Álvarez Navarro",
         "Dirección": "C. Jesús María Romo #121, Col. Ciudad industrial ",
         "Municipio": "Aguascalientes",
         "Latitud": "21.8313367",
         "Longitud": "-102.2841808",
-        "Vencimiento ": "03/04/2025"
+        "Vencimiento ": "03/04/2025 "
     },
     {
         "ID": "43",
-        "Material": "Chatarra ferrosa, Plástico",
+        "Material": "Plástico, Cartón, Chatarra ferrosa, Chatarra no ferrosa, Plástico, Chatarra electrónica",
         "Material específico": "Fierro viejo, Lamina, Chatarra ferrosa, RSU, Llantas, PU",
         "Nombre del proyecto o establecimiento": "Recicladora Comercial ST S.A. de C.V.",
-        "Representante legal o promovente": "Recicladora Comercial ST S.A. de C.V.",
         "Dirección": "Carr. A Borrotes Km. 1.09, Col. La Escondida",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "22.04232072",
         "Longitud": "-102.2635061",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "154",
         "Material": "Cartón, Chatarra ferrosa, Chatarra no ferrosa, Plástico, Chatarra electrónica, Papel",
         "Material específico": "Cartón, Chatarra ferrosa, Chatarra no ferrosa, Plástico, Chatarra electrónica, Papel",
         "Nombre del proyecto o establecimiento": "Rogelio Sánchez Amezola",
-        "Representante legal o promovente": "Rogelio Sánchez Amezola",
         "Dirección": "Av. La Espiga #102, Col. El Riego",
         "Municipio": "Aguascalientes",
         "Latitud": "21.89091165",
         "Longitud": "-102.2533972",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "157",
         "Material": "Otros",
         "Material específico": "Otros",
         "Nombre del proyecto o establecimiento": "Secretario de H. Ayuntamiento ",
-        "Representante legal o promovente": "Luis Santana Valdez",
         "Dirección": "C. 5 de Febrero #65, Col. Emiliano Zapata",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.10664856",
         "Longitud": "-102.2988067",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "158",
         "Material": "Otros",
         "Material específico": "Otros",
         "Nombre del proyecto o establecimiento": "Secretario de H. Ayuntamiento ",
-        "Representante legal o promovente": "Luis Santana Valdez",
         "Dirección": "C. Miguel Hidalgo S/N, Col. Emiliano Zapata",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.10808167",
         "Longitud": "-102.3003101",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "159",
         "Material": "Otros",
         "Material específico": "Otros",
         "Nombre del proyecto o establecimiento": "Secretario de H. Ayuntamiento ",
-        "Representante legal o promovente": "Luis Santana Valdez",
         "Dirección": "C. Irrigación #52-A, Col. Carboneras",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.14453622",
         "Longitud": "-102.2744308",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "160",
         "Material": "Otros",
         "Material específico": "Otros",
         "Nombre del proyecto o establecimiento": "Secretario de H. Ayuntamiento ",
-        "Representante legal o promovente": "Luis Santana Valdez",
         "Dirección": "Av. 20 de Noviembre Esquina Álvaro Obregon, Col. Carboneras",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.14828567",
         "Longitud": "-102.2703081",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "161",
         "Material": "Otros",
         "Material específico": "Otros",
         "Nombre del proyecto o establecimiento": "Secretario de H. Ayuntamiento ",
-        "Representante legal o promovente": "Luis Santana Valdez",
         "Dirección": "Av. 16 de septiembre #605, Fracc. Popular",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.14023992",
         "Longitud": "-102.2744651",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "162",
         "Material": "Otros",
         "Material específico": "Otros",
         "Nombre del proyecto o establecimiento": "Secretario de H. Ayuntamiento ",
-        "Representante legal o promovente": "Luis Santana Valdez",
         "Dirección": "C. Carrillo puerto #100, Col. 5 de Mayo",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.14270049",
         "Longitud": "-102.2801831",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "163",
         "Material": "Otros",
         "Material específico": "Otros",
         "Nombre del proyecto o establecimiento": "Secretario de H. Ayuntamiento ",
-        "Representante legal o promovente": "Luis Santana Valdez",
         "Dirección": "Blvd. Enrique Olivares Santana #507-A, Col.Progreso Norte",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.14705823",
         "Longitud": "-102.2887139",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "164",
         "Material": "Otros",
         "Material específico": "Otros",
         "Nombre del proyecto o establecimiento": "Secretario de H. Ayuntamiento ",
-        "Representante legal o promovente": "Luis Santana Valdez",
         "Dirección": "C. Rito guardado #101, Col.Progreso Norte",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.14954576",
         "Longitud": "-102.2825129",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "165",
         "Material": "Otros",
         "Material específico": "Otros",
         "Nombre del proyecto o establecimiento": "Secretario de H. Ayuntamiento ",
-        "Representante legal o promovente": "Luis Santana Valdez",
         "Dirección": "C. Venustiano Carranza #325, Col. Las Animas",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.08874567",
         "Longitud": "-102.26883",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "166",
         "Material": "Otros",
         "Material específico": "Otros",
         "Nombre del proyecto o establecimiento": "Secretario de H. Ayuntamiento ",
-        "Representante legal o promovente": "Luis Santana Valdez",
         "Dirección": "Carretera #71, Col. Las Animas",
         "Municipio": "Pabellón de Arteaga",
         "Latitud": "22.09840856",
         "Longitud": "-102.2663676",
-        "Vencimiento ": "04/04/2025"
+        "Vencimiento ": "04/04/2025 "
     },
     {
         "ID": "152",
         "Material": "Chatarra ferrosa, Chatarra no ferrosa, Plástico, Cartón",
         "Material específico": "Aluminio, PET, Cartón, Plástico, Tambos, Chatarra ferrosa",
         "Nombre del proyecto o establecimiento": "Juan César Herrera Pedroza",
-        "Representante legal o promovente": "Juan César Herrera Pedroza",
         "Dirección": "Av. Benito Juárez #314-A, Col. Los lirios",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "22.07566361",
         "Longitud": "-102.2735854",
-        "Vencimiento ": "12/04/2025"
-    },
-    {
-        "ID": "30",
-        "Material": "Plástico",
-        "Material específico": "PEBD",
-        "Nombre del proyecto o establecimiento": "Poliductos de Aguascalientes S.A. de C.V.",
-        "Representante legal o promovente": "José Ernesto Miranda Patiño",
-        "Dirección": "C. Filemón Alonso Muñoz #208-A, Col. Ciudad industrial ",
-        "Municipio": "Aguascalientes",
-        "Latitud": "21.8404097",
-        "Longitud": "-102.2866178",
-        "Vencimiento ": "26/04/2025"
-    },
-    {
-        "ID": "78",
-        "Material": "Chatarra ferrosa, Chatarra no ferrosa, Plástico, Otros, Textiles, Papel, Cartón, Madera, Fundición, Escombros de construcción, Orgánicos",
-        "Material específico": "Chatarra ferrosa, Chatarrra no ferrosa, Plásticos, Vidrio, Textiles, Papel, Cartón, Madera, Escombro, Fundición, Materia orgánica, Lodos, Sóidos urbanos",
-        "Nombre del proyecto o establecimiento": "Ecosistem de Aguascalientes S.A. de C.V.",
-        "Representante legal o promovente": "Ecosistem de Aguascalientes S.A. de C.V.",
-        "Dirección": "Carr. Valladolid-Emiliano Zapata En el entroque, S/C",
-        "Municipio": "Pabellón de Arteaga",
-        "Latitud": "22.06585635",
-        "Longitud": "-102.287303",
-        "Vencimiento ": "19/10/2025"
+        "Vencimiento ": "12/04/2025 "
     },
     {
         "ID": "156",
-        "Material": "Plástico",
+        "Material": "Cartón, Plástico, Chatarra ferrosa, Chatarra no ferrosa",
         "Material específico": "Plástico",
         "Nombre del proyecto o establecimiento": "Hector Márquez Romo",
-        "Representante legal o promovente": "Hector Márquez Romo",
         "Dirección": "Carr. Chicalote Macario J. Gómez Km. 0.750 parcela #43Z0P2/3, Col. Chicalote",
         "Municipio": "San Francisco de los Romos",
         "Latitud": "21.97916688",
         "Longitud": "-102.249998",
-        "Vencimiento ": "07/12/2025"
-    }        
+        "Vencimiento ": "07/12/2025 "
+    }
 ]
